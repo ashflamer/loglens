@@ -1,0 +1,1200 @@
+2026-10-04T14:49:41.094Z INFO  [checkout-api] Request completed POST /api/v1/orders in 174ms
+2026-10-04T14:49:42.893Z DEBUG [checkout-api] Cache hit for key cart:4943
+2026-10-04T14:49:45.919Z INFO  [checkout-api] Request completed GET /api/v1/cart/85642 in 157ms
+2026-10-04T14:49:47.443Z INFO  [checkout-api] Request completed GET /api/v1/cart/84830 in 86ms
+2026-10-04T14:49:49.524Z INFO  [checkout-api] Request completed POST /api/v1/orders in 144ms
+2026-10-04T14:49:52.620Z INFO  [checkout-api] Request completed POST /api/v1/orders in 155ms
+2026-10-04T14:49:54.558Z INFO  [checkout-api] Request completed POST /api/v1/orders in 46ms
+2026-10-04T14:49:57.146Z INFO  [inventory] Stock level for SKU-585 updated to 45
+2026-10-04T14:49:59.171Z INFO  [checkout-api] Request completed GET /api/v1/cart/50580 in 173ms
+2026-10-04T14:50:00.676Z INFO  [checkout-api] Request completed GET /api/v1/cart/74709 in 23ms
+2026-10-04T14:50:02.754Z DEBUG [checkout-api] Cache hit for key cart:5552
+2026-10-04T14:50:05.797Z DEBUG [checkout-api] Cache hit for key cart:2359
+2026-10-04T14:50:07.296Z INFO  [auth-service] User 7864 authenticated from 10.2.163.244
+2026-10-04T14:50:10.158Z WARN  [checkout-api] Slow query took 124ms: SELECT * FROM carts WHERE user_id = 7428
+2026-10-04T14:50:11.708Z INFO  [checkout-api] Request completed POST /api/v1/orders in 49ms
+2026-10-04T14:50:14.969Z INFO  [payment-worker] Charged order 533063 for $401.70
+2026-10-04T14:50:16.505Z INFO  [checkout-api] Request completed GET /api/v1/cart/73972 in 127ms
+2026-10-04T14:50:18.412Z INFO  [inventory] Stock level for SKU-127 updated to 49
+2026-10-04T14:50:20.980Z WARN  [checkout-api] Slow query took 74ms: SELECT * FROM carts WHERE user_id = 9493
+2026-10-04T14:50:22.902Z INFO  [checkout-api] Request completed POST /api/v1/orders in 57ms
+2026-10-04T14:50:26.026Z INFO  [inventory] Stock level for SKU-473 updated to 6
+2026-10-04T14:50:27.150Z INFO  [checkout-api] Request completed POST /api/v1/orders in 58ms
+2026-10-04T14:50:29.523Z WARN  [checkout-api] Slow query took 177ms: SELECT * FROM carts WHERE user_id = 2964
+2026-10-04T14:50:31.362Z WARN  [checkout-api] Slow query took 126ms: SELECT * FROM carts WHERE user_id = 7576
+2026-10-04T14:50:34.570Z INFO  [checkout-api] Request completed POST /api/v1/orders in 160ms
+2026-10-04T14:50:36.550Z INFO  [payment-worker] Charged order 527889 for $129.41
+2026-10-04T14:50:38.662Z INFO  [auth-service] User 3147 authenticated from 10.0.181.230
+2026-10-04T14:50:40.630Z INFO  [payment-worker] Charged order 524000 for $259.12
+2026-10-04T14:50:42.482Z DEBUG [checkout-api] Cache hit for key cart:2011
+2026-10-04T14:50:44.709Z INFO  [checkout-api] Request completed GET /api/v1/cart/22811 in 137ms
+2026-10-04T14:50:47.358Z WARN  [checkout-api] Slow query took 123ms: SELECT * FROM carts WHERE user_id = 9325
+2026-10-04T14:50:50.091Z INFO  [checkout-api] Request completed POST /api/v1/orders in 43ms
+2026-10-04T14:50:51.143Z WARN  [checkout-api] Slow query took 39ms: SELECT * FROM carts WHERE user_id = 3530
+2026-10-04T14:50:54.574Z DEBUG [checkout-api] Cache hit for key cart:4665
+2026-10-04T14:50:55.887Z WARN  [checkout-api] Slow query took 12ms: SELECT * FROM carts WHERE user_id = 6537
+2026-10-04T14:50:58.055Z INFO  [checkout-api] Request completed GET /api/v1/cart/24791 in 66ms
+2026-10-04T14:51:00.899Z INFO  [inventory] Stock level for SKU-158 updated to 45
+2026-10-04T14:51:02.298Z INFO  [checkout-api] Request completed GET /api/v1/cart/45248 in 12ms
+2026-10-04T14:51:04.876Z INFO  [auth-service] User 5388 authenticated from 10.1.22.135
+2026-10-04T14:51:06.808Z INFO  [checkout-api] Request completed POST /api/v1/orders in 87ms
+2026-10-04T14:51:09.766Z INFO  [auth-service] User 1302 authenticated from 10.1.243.63
+2026-10-04T14:51:11.446Z DEBUG [checkout-api] Cache hit for key cart:9301
+2026-10-04T14:51:14.061Z INFO  [checkout-api] Request completed POST /api/v1/orders in 96ms
+2026-10-04T14:51:15.469Z INFO  [checkout-api] Request completed GET /api/v1/cart/97192 in 105ms
+2026-10-04T14:51:17.818Z INFO  [checkout-api] Request completed GET /api/v1/cart/44503 in 101ms
+2026-10-04T14:51:20.110Z INFO  [checkout-api] Request completed GET /api/v1/cart/72212 in 79ms
+2026-10-04T14:51:22.042Z INFO  [payment-worker] Charged order 530514 for $43.72
+2026-10-04T14:51:24.258Z WARN  [checkout-api] Slow query took 107ms: SELECT * FROM carts WHERE user_id = 6343
+2026-10-04T14:51:27.396Z WARN  [checkout-api] Slow query took 168ms: SELECT * FROM carts WHERE user_id = 8032
+2026-10-04T14:51:29.779Z WARN  [checkout-api] Slow query took 29ms: SELECT * FROM carts WHERE user_id = 1510
+2026-10-04T14:51:31.423Z WARN  [checkout-api] Slow query took 168ms: SELECT * FROM carts WHERE user_id = 9707
+2026-10-04T14:51:34.146Z INFO  [payment-worker] Charged order 509758 for $356.76
+2026-10-04T14:51:36.100Z INFO  [checkout-api] Request completed POST /api/v1/orders in 125ms
+2026-10-04T14:51:38.127Z INFO  [checkout-api] Request completed POST /api/v1/orders in 161ms
+2026-10-04T14:51:39.628Z DEBUG [checkout-api] Cache hit for key cart:5403
+2026-10-04T14:51:42.291Z DEBUG [checkout-api] Cache hit for key cart:4264
+2026-10-04T14:51:44.989Z DEBUG [checkout-api] Cache hit for key cart:4437
+2026-10-04T14:51:47.375Z INFO  [checkout-api] Request completed POST /api/v1/orders in 169ms
+2026-10-04T14:51:48.793Z INFO  [checkout-api] Request completed POST /api/v1/orders in 133ms
+2026-10-04T14:51:50.610Z INFO  [auth-service] User 6542 authenticated from 10.3.61.241
+2026-10-04T14:51:52.995Z INFO  [checkout-api] Request completed GET /api/v1/cart/61498 in 107ms
+2026-10-04T14:51:54.913Z WARN  [checkout-api] Slow query took 170ms: SELECT * FROM carts WHERE user_id = 3439
+2026-10-04T14:51:58.140Z DEBUG [checkout-api] Cache hit for key cart:7554
+2026-10-04T14:51:59.435Z INFO  [inventory] Stock level for SKU-404 updated to 17
+2026-10-04T14:52:02.476Z WARN  [checkout-api] Slow query took 111ms: SELECT * FROM carts WHERE user_id = 4910
+2026-10-04T14:52:03.867Z INFO  [checkout-api] Request completed POST /api/v1/orders in 135ms
+2026-10-04T14:52:06.183Z INFO  [checkout-api] Request completed POST /api/v1/orders in 150ms
+2026-10-04T14:52:09.090Z DEBUG [checkout-api] Cache hit for key cart:9587
+2026-10-04T14:52:11.045Z INFO  [auth-service] User 9670 authenticated from 10.1.47.70
+2026-10-04T14:52:13.045Z INFO  [auth-service] User 1528 authenticated from 10.3.242.248
+2026-10-04T14:52:15.943Z INFO  [inventory] Stock level for SKU-798 updated to 7
+2026-10-04T14:52:18.159Z WARN  [checkout-api] Slow query took 125ms: SELECT * FROM carts WHERE user_id = 2392
+2026-10-04T14:52:20.042Z INFO  [checkout-api] Request completed POST /api/v1/orders in 72ms
+2026-10-04T14:52:21.784Z INFO  [checkout-api] Request completed POST /api/v1/orders in 8ms
+2026-10-04T14:52:24.178Z INFO  [payment-worker] Charged order 525443 for $213.81
+2026-10-04T14:52:26.229Z INFO  [auth-service] User 7952 authenticated from 10.2.116.127
+2026-10-04T14:52:28.348Z DEBUG [checkout-api] Cache hit for key cart:5785
+2026-10-04T14:52:30.364Z INFO  [checkout-api] Request completed POST /api/v1/orders in 83ms
+2026-10-04T14:52:33.569Z INFO  [checkout-api] Request completed POST /api/v1/orders in 21ms
+2026-10-04T14:52:35.070Z WARN  [checkout-api] Slow query took 36ms: SELECT * FROM carts WHERE user_id = 2300
+2026-10-04T14:52:37.296Z INFO  [auth-service] User 7125 authenticated from 10.2.226.44
+2026-10-04T14:52:39.333Z INFO  [checkout-api] Request completed GET /api/v1/cart/83548 in 61ms
+2026-10-04T14:52:41.315Z INFO  [payment-worker] Charged order 582793 for $177.84
+2026-10-04T14:52:44.314Z INFO  [checkout-api] Request completed GET /api/v1/cart/59226 in 16ms
+2026-10-04T14:52:45.949Z INFO  [auth-service] User 5295 authenticated from 10.2.141.77
+2026-10-04T14:52:48.966Z INFO  [checkout-api] Request completed GET /api/v1/cart/13179 in 67ms
+2026-10-04T14:52:50.027Z DEBUG [checkout-api] Cache hit for key cart:5969
+2026-10-04T14:52:52.152Z INFO  [checkout-api] Request completed POST /api/v1/orders in 48ms
+2026-10-04T14:52:54.466Z DEBUG [checkout-api] Cache hit for key cart:5339
+2026-10-04T14:52:56.683Z INFO  [checkout-api] Request completed POST /api/v1/orders in 125ms
+2026-10-04T14:52:59.674Z INFO  [checkout-api] Request completed POST /api/v1/orders in 71ms
+2026-10-04T14:53:01.298Z DEBUG [checkout-api] Cache hit for key cart:9312
+2026-10-04T14:53:03.706Z INFO  [inventory] Stock level for SKU-714 updated to 38
+2026-10-04T14:53:05.513Z INFO  [checkout-api] Request completed GET /api/v1/cart/58789 in 139ms
+2026-10-04T14:53:08.276Z INFO  [payment-worker] Charged order 505788 for $92.83
+2026-10-04T14:53:10.480Z WARN  [checkout-api] Slow query took 10ms: SELECT * FROM carts WHERE user_id = 6361
+2026-10-04T14:53:12.954Z INFO  [payment-worker] Charged order 572107 for $72.52
+2026-10-04T14:53:14.955Z DEBUG [checkout-api] Cache hit for key cart:5641
+2026-10-04T14:53:16.821Z INFO  [checkout-api] Request completed GET /api/v1/cart/57681 in 172ms
+2026-10-04T14:53:18.600Z INFO  [checkout-api] Request completed GET /api/v1/cart/63243 in 155ms
+2026-10-04T14:53:21.770Z DEBUG [checkout-api] Cache hit for key cart:7075
+2026-10-04T14:53:22.993Z DEBUG [checkout-api] Cache hit for key cart:3075
+2026-10-04T14:53:25.162Z WARN  [checkout-api] Slow query took 49ms: SELECT * FROM carts WHERE user_id = 4638
+2026-10-04T14:53:27.801Z INFO  [payment-worker] Charged order 595011 for $344.23
+2026-10-04T14:53:30.678Z INFO  [inventory] Stock level for SKU-742 updated to 50
+2026-10-04T14:53:32.070Z DEBUG [checkout-api] Cache hit for key cart:5083
+2026-10-04T14:53:33.874Z INFO  [payment-worker] Charged order 523536 for $342.13
+2026-10-04T14:53:36.135Z INFO  [auth-service] User 2502 authenticated from 10.3.20.11
+2026-10-04T14:53:39.330Z INFO  [payment-worker] Charged order 508700 for $418.41
+2026-10-04T14:53:41.582Z INFO  [checkout-api] Request completed POST /api/v1/orders in 133ms
+2026-10-04T14:53:43.094Z INFO  [payment-worker] Charged order 577579 for $117.04
+2026-10-04T14:53:45.288Z INFO  [checkout-api] Request completed GET /api/v1/cart/36075 in 54ms
+2026-10-04T14:53:47.202Z INFO  [payment-worker] Charged order 570215 for $267.84
+2026-10-04T14:53:50.358Z INFO  [auth-service] User 3395 authenticated from 10.2.169.196
+2026-10-04T14:53:52.482Z INFO  [checkout-api] Request completed GET /api/v1/cart/48847 in 140ms
+2026-10-04T14:53:54.048Z WARN  [checkout-api] Slow query took 114ms: SELECT * FROM carts WHERE user_id = 9399
+2026-10-04T14:53:55.872Z INFO  [checkout-api] Request completed GET /api/v1/cart/84333 in 98ms
+2026-10-04T14:53:58.228Z INFO  [auth-service] User 3598 authenticated from 10.1.7.240
+2026-10-04T14:54:00.330Z INFO  [checkout-api] Request completed POST /api/v1/orders in 77ms
+2026-10-04T14:54:03.345Z DEBUG [checkout-api] Cache hit for key cart:9074
+2026-10-04T14:54:05.209Z INFO  [checkout-api] Request completed POST /api/v1/orders in 22ms
+2026-10-04T14:54:07.551Z WARN  [checkout-api] Slow query took 164ms: SELECT * FROM carts WHERE user_id = 3861
+2026-10-04T14:54:10.042Z INFO  [checkout-api] Request completed GET /api/v1/cart/59172 in 119ms
+2026-10-04T14:54:12.143Z INFO  [checkout-api] Request completed GET /api/v1/cart/53976 in 75ms
+2026-10-04T14:54:14.741Z INFO  [checkout-api] Request completed POST /api/v1/orders in 137ms
+2026-10-04T14:54:16.686Z INFO  [auth-service] User 6383 authenticated from 10.1.194.233
+2026-10-04T14:54:18.498Z INFO  [inventory] Stock level for SKU-500 updated to 40
+2026-10-04T14:54:20.860Z INFO  [payment-worker] Charged order 581522 for $390.80
+2026-10-04T14:54:23.222Z INFO  [checkout-api] Request completed GET /api/v1/cart/15459 in 43ms
+2026-10-04T14:54:25.689Z INFO  [checkout-api] Request completed GET /api/v1/cart/60311 in 35ms
+2026-10-04T14:54:27.529Z INFO  [inventory] Stock level for SKU-761 updated to 14
+2026-10-04T14:54:29.253Z INFO  [auth-service] User 1342 authenticated from 10.2.131.239
+2026-10-04T14:54:32.315Z INFO  [inventory] Stock level for SKU-631 updated to 50
+2026-10-04T14:54:33.379Z DEBUG [checkout-api] Cache hit for key cart:4548
+2026-10-04T14:54:36.508Z INFO  [checkout-api] Request completed GET /api/v1/cart/10571 in 97ms
+2026-10-04T14:54:38.981Z INFO  [payment-worker] Charged order 591682 for $104.16
+2026-10-04T14:54:41.155Z INFO  [inventory] Stock level for SKU-863 updated to 6
+2026-10-04T14:54:42.632Z WARN  [checkout-api] Slow query took 103ms: SELECT * FROM carts WHERE user_id = 4377
+2026-10-04T14:54:44.568Z DEBUG [checkout-api] Cache hit for key cart:1555
+2026-10-04T14:54:47.216Z INFO  [auth-service] User 8189 authenticated from 10.2.118.33
+2026-10-04T14:54:49.352Z INFO  [auth-service] User 3532 authenticated from 10.1.126.186
+2026-10-04T14:54:51.172Z INFO  [checkout-api] Request completed POST /api/v1/orders in 34ms
+2026-10-04T14:54:54.068Z DEBUG [checkout-api] Cache hit for key cart:2790
+2026-10-04T14:54:56.437Z DEBUG [checkout-api] Cache hit for key cart:5853
+2026-10-04T14:54:58.478Z INFO  [inventory] Stock level for SKU-564 updated to 28
+2026-10-04T14:55:00.079Z WARN  [checkout-api] Slow query took 115ms: SELECT * FROM carts WHERE user_id = 4971
+2026-10-04T14:55:03.043Z INFO  [payment-worker] Charged order 564204 for $382.27
+2026-10-04T14:55:04.393Z INFO  [checkout-api] Request completed POST /api/v1/orders in 59ms
+2026-10-04T14:55:06.907Z INFO  [checkout-api] Request completed GET /api/v1/cart/93789 in 102ms
+2026-10-04T14:55:08.990Z INFO  [inventory] Stock level for SKU-113 updated to 5
+2026-10-04T14:55:11.227Z DEBUG [checkout-api] Cache hit for key cart:6769
+2026-10-04T14:55:14.233Z DEBUG [checkout-api] Cache hit for key cart:3695
+2026-10-04T14:55:16.050Z INFO  [inventory] Stock level for SKU-898 updated to 31
+2026-10-04T14:55:17.738Z INFO  [inventory] Stock level for SKU-924 updated to 47
+2026-10-04T14:55:20.559Z INFO  [auth-service] User 5945 authenticated from 10.2.245.125
+2026-10-04T14:55:22.897Z INFO  [checkout-api] Request completed POST /api/v1/orders in 106ms
+2026-10-04T14:55:24.656Z WARN  [checkout-api] Slow query took 61ms: SELECT * FROM carts WHERE user_id = 2179
+2026-10-04T14:55:26.301Z DEBUG [checkout-api] Cache hit for key cart:4416
+2026-10-04T14:55:29.177Z INFO  [payment-worker] Charged order 510304 for $313.93
+2026-10-04T14:55:31.677Z INFO  [payment-worker] Charged order 564628 for $238.01
+2026-10-04T14:55:33.909Z WARN  [checkout-api] Slow query took 71ms: SELECT * FROM carts WHERE user_id = 9162
+2026-10-04T14:55:35.772Z INFO  [inventory] Stock level for SKU-762 updated to 2
+2026-10-04T14:55:37.070Z INFO  [checkout-api] Request completed GET /api/v1/cart/99468 in 92ms
+2026-10-04T14:55:40.116Z INFO  [auth-service] User 6999 authenticated from 10.2.242.200
+2026-10-04T14:55:42.050Z DEBUG [checkout-api] Cache hit for key cart:1863
+2026-10-04T14:55:44.863Z INFO  [auth-service] User 9064 authenticated from 10.0.169.50
+2026-10-04T14:55:47.203Z INFO  [checkout-api] Request completed GET /api/v1/cart/15249 in 110ms
+2026-10-04T14:55:48.893Z WARN  [checkout-api] Slow query took 136ms: SELECT * FROM carts WHERE user_id = 9907
+2026-10-04T14:55:50.357Z INFO  [checkout-api] Request completed GET /api/v1/cart/97425 in 170ms
+2026-10-04T14:55:52.582Z WARN  [checkout-api] Slow query took 102ms: SELECT * FROM carts WHERE user_id = 3272
+2026-10-04T14:55:54.669Z INFO  [payment-worker] Charged order 515577 for $327.02
+2026-10-04T14:55:57.815Z DEBUG [checkout-api] Cache hit for key cart:1231
+2026-10-04T14:55:59.702Z INFO  [checkout-api] Request completed POST /api/v1/orders in 11ms
+2026-10-04T14:56:01.546Z INFO  [checkout-api] Request completed GET /api/v1/cart/26904 in 128ms
+2026-10-04T14:56:04.525Z WARN  [checkout-api] Slow query took 29ms: SELECT * FROM carts WHERE user_id = 5802
+2026-10-04T14:56:05.686Z INFO  [checkout-api] Request completed GET /api/v1/cart/11930 in 174ms
+2026-10-04T14:56:08.693Z INFO  [auth-service] User 8188 authenticated from 10.3.85.38
+2026-10-04T14:56:10.923Z DEBUG [checkout-api] Cache hit for key cart:8417
+2026-10-04T14:56:13.364Z INFO  [payment-worker] Charged order 556172 for $410.30
+2026-10-04T14:56:14.983Z DEBUG [checkout-api] Cache hit for key cart:8393
+2026-10-04T14:56:17.930Z INFO  [inventory] Stock level for SKU-611 updated to 23
+2026-10-04T14:56:19.589Z INFO  [payment-worker] Charged order 579547 for $32.66
+2026-10-04T14:56:22.033Z INFO  [auth-service] User 7307 authenticated from 10.3.44.138
+2026-10-04T14:56:24.052Z INFO  [auth-service] User 8808 authenticated from 10.1.96.55
+2026-10-04T14:56:25.847Z INFO  [payment-worker] Charged order 564653 for $162.73
+2026-10-04T14:56:28.527Z INFO  [inventory] Stock level for SKU-196 updated to 3
+2026-10-04T14:56:30.127Z INFO  [inventory] Stock level for SKU-885 updated to 38
+2026-10-04T14:56:33.187Z INFO  [checkout-api] Request completed POST /api/v1/orders in 17ms
+2026-10-04T14:56:34.758Z WARN  [checkout-api] Slow query took 132ms: SELECT * FROM carts WHERE user_id = 2051
+2026-10-04T14:56:37.338Z WARN  [checkout-api] Slow query took 108ms: SELECT * FROM carts WHERE user_id = 3992
+2026-10-04T14:56:38.695Z INFO  [auth-service] User 1455 authenticated from 10.0.132.202
+2026-10-04T14:56:42.221Z INFO  [checkout-api] Request completed GET /api/v1/cart/23245 in 45ms
+2026-10-04T14:56:44.102Z INFO  [checkout-api] Request completed GET /api/v1/cart/71698 in 90ms
+2026-10-04T14:56:45.575Z INFO  [checkout-api] Request completed POST /api/v1/orders in 11ms
+2026-10-04T14:56:48.685Z INFO  [checkout-api] Request completed POST /api/v1/orders in 32ms
+2026-10-04T14:56:49.803Z INFO  [auth-service] User 4631 authenticated from 10.0.92.183
+2026-10-04T14:56:53.060Z INFO  [auth-service] User 5042 authenticated from 10.1.13.70
+2026-10-04T14:56:54.406Z INFO  [checkout-api] Request completed GET /api/v1/cart/51689 in 124ms
+2026-10-04T14:56:57.536Z INFO  [payment-worker] Charged order 547746 for $186.58
+2026-10-04T14:56:59.736Z INFO  [checkout-api] Request completed GET /api/v1/cart/61137 in 82ms
+2026-10-04T14:57:00.663Z INFO  [inventory] Stock level for SKU-468 updated to 28
+2026-10-04T14:57:02.898Z DEBUG [checkout-api] Cache hit for key cart:3960
+2026-10-04T14:57:05.152Z INFO  [checkout-api] Request completed GET /api/v1/cart/89764 in 134ms
+2026-10-04T14:57:08.057Z INFO  [checkout-api] Request completed POST /api/v1/orders in 24ms
+2026-10-04T14:57:10.651Z DEBUG [checkout-api] Cache hit for key cart:7709
+2026-10-04T14:57:12.805Z INFO  [auth-service] User 7081 authenticated from 10.0.182.134
+2026-10-04T14:57:14.340Z INFO  [checkout-api] Request completed POST /api/v1/orders in 105ms
+2026-10-04T14:57:16.784Z INFO  [payment-worker] Charged order 523906 for $78.00
+2026-10-04T14:57:19.018Z INFO  [checkout-api] Request completed GET /api/v1/cart/12549 in 32ms
+2026-10-04T14:57:20.775Z DEBUG [checkout-api] Cache hit for key cart:2538
+2026-10-04T14:57:23.707Z INFO  [checkout-api] Request completed GET /api/v1/cart/25995 in 39ms
+2026-10-04T14:57:25.886Z INFO  [checkout-api] Request completed POST /api/v1/orders in 170ms
+2026-10-04T14:57:27.377Z INFO  [auth-service] User 6253 authenticated from 10.3.27.84
+2026-10-04T14:57:29.590Z DEBUG [checkout-api] Cache hit for key cart:1189
+2026-10-04T14:57:32.148Z INFO  [checkout-api] Request completed GET /api/v1/cart/39553 in 43ms
+2026-10-04T14:57:34.853Z INFO  [payment-worker] Charged order 515951 for $222.85
+2026-10-04T14:57:37.172Z INFO  [auth-service] User 6694 authenticated from 10.1.61.16
+2026-10-04T14:57:38.159Z INFO  [payment-worker] Charged order 538482 for $385.31
+2026-10-04T14:57:40.625Z WARN  [checkout-api] Slow query took 147ms: SELECT * FROM carts WHERE user_id = 5704
+2026-10-04T14:57:43.086Z INFO  [payment-worker] Charged order 531752 for $146.14
+2026-10-04T14:57:45.405Z INFO  [payment-worker] Charged order 572961 for $142.77
+2026-10-04T14:57:48.071Z INFO  [checkout-api] Request completed POST /api/v1/orders in 22ms
+2026-10-04T14:57:49.584Z DEBUG [checkout-api] Cache hit for key cart:9534
+2026-10-04T14:57:51.524Z INFO  [payment-worker] Charged order 582662 for $300.21
+2026-10-04T14:57:54.019Z INFO  [checkout-api] Request completed GET /api/v1/cart/10566 in 113ms
+2026-10-04T14:57:56.863Z INFO  [payment-worker] Charged order 546218 for $129.39
+2026-10-04T14:57:58.618Z DEBUG [checkout-api] Cache hit for key cart:1110
+2026-10-04T14:58:00.651Z DEBUG [checkout-api] Cache hit for key cart:2440
+2026-10-04T14:58:03.602Z INFO  [checkout-api] Request completed GET /api/v1/cart/13352 in 20ms
+2026-10-04T14:58:05.839Z INFO  [payment-worker] Charged order 577951 for $286.93
+2026-10-04T14:58:07.588Z INFO  [payment-worker] Charged order 573575 for $390.58
+2026-10-04T14:58:10.191Z DEBUG [checkout-api] Cache hit for key cart:6624
+2026-10-04T14:58:11.759Z INFO  [checkout-api] Request completed GET /api/v1/cart/95973 in 83ms
+2026-10-04T14:58:14.491Z DEBUG [checkout-api] Cache hit for key cart:2746
+2026-10-04T14:58:16.436Z INFO  [payment-worker] Charged order 503870 for $89.82
+2026-10-04T14:58:18.415Z INFO  [auth-service] User 9426 authenticated from 10.1.101.106
+2026-10-04T14:58:20.904Z INFO  [checkout-api] Request completed GET /api/v1/cart/13805 in 33ms
+2026-10-04T14:58:22.951Z WARN  [checkout-api] Slow query took 90ms: SELECT * FROM carts WHERE user_id = 3358
+2026-10-04T14:58:25.444Z INFO  [payment-worker] Charged order 507166 for $99.44
+2026-10-04T14:58:27.511Z INFO  [checkout-api] Request completed GET /api/v1/cart/67624 in 21ms
+2026-10-04T14:58:29.082Z INFO  [inventory] Stock level for SKU-499 updated to 44
+2026-10-04T14:58:31.847Z INFO  [checkout-api] Request completed POST /api/v1/orders in 87ms
+2026-10-04T14:58:33.572Z INFO  [checkout-api] Request completed GET /api/v1/cart/48102 in 109ms
+2026-10-04T14:58:36.587Z DEBUG [checkout-api] Cache hit for key cart:5013
+2026-10-04T14:58:37.832Z INFO  [checkout-api] Request completed GET /api/v1/cart/54750 in 47ms
+2026-10-04T14:58:40.418Z DEBUG [checkout-api] Cache hit for key cart:7027
+2026-10-04T14:58:42.257Z DEBUG [checkout-api] Cache hit for key cart:4723
+2026-10-04T14:58:44.864Z INFO  [auth-service] User 7621 authenticated from 10.1.64.224
+2026-10-04T14:58:47.001Z INFO  [auth-service] User 3376 authenticated from 10.2.7.100
+2026-10-04T14:58:49.632Z INFO  [auth-service] User 2785 authenticated from 10.0.185.207
+2026-10-04T14:58:51.647Z INFO  [checkout-api] Request completed GET /api/v1/cart/39677 in 81ms
+2026-10-04T14:58:53.720Z WARN  [checkout-api] Slow query took 78ms: SELECT * FROM carts WHERE user_id = 3890
+2026-10-04T14:58:55.964Z WARN  [checkout-api] Slow query took 71ms: SELECT * FROM carts WHERE user_id = 7562
+2026-10-04T14:58:57.548Z WARN  [checkout-api] Slow query took 111ms: SELECT * FROM carts WHERE user_id = 1655
+2026-10-04T14:58:59.496Z INFO  [auth-service] User 3943 authenticated from 10.1.254.184
+2026-10-04T14:59:02.599Z INFO  [auth-service] User 5691 authenticated from 10.0.24.250
+2026-10-04T14:59:04.135Z INFO  [auth-service] User 7449 authenticated from 10.1.143.135
+2026-10-04T14:59:07.343Z WARN  [checkout-api] Slow query took 168ms: SELECT * FROM carts WHERE user_id = 8418
+2026-10-04T14:59:08.926Z INFO  [checkout-api] Request completed POST /api/v1/orders in 151ms
+2026-10-04T14:59:11.790Z INFO  [checkout-api] Request completed POST /api/v1/orders in 96ms
+2026-10-04T14:59:13.322Z DEBUG [checkout-api] Cache hit for key cart:1096
+2026-10-04T14:59:16.079Z INFO  [checkout-api] Request completed POST /api/v1/orders in 152ms
+2026-10-04T14:59:17.974Z INFO  [payment-worker] Charged order 547248 for $209.00
+2026-10-04T14:59:20.495Z INFO  [auth-service] User 6061 authenticated from 10.3.57.42
+2026-10-04T14:59:21.846Z INFO  [payment-worker] Charged order 597948 for $303.75
+2026-10-04T14:59:24.011Z WARN  [checkout-api] Slow query took 119ms: SELECT * FROM carts WHERE user_id = 9001
+2026-10-04T14:59:26.720Z WARN  [checkout-api] Slow query took 72ms: SELECT * FROM carts WHERE user_id = 5030
+2026-10-04T14:59:28.456Z INFO  [checkout-api] Request completed POST /api/v1/orders in 142ms
+2026-10-04T14:59:31.396Z INFO  [auth-service] User 3233 authenticated from 10.2.129.62
+2026-10-04T14:59:33.730Z WARN  [checkout-api] Slow query took 20ms: SELECT * FROM carts WHERE user_id = 4546
+2026-10-04T14:59:35.454Z INFO  [checkout-api] Request completed GET /api/v1/cart/28597 in 66ms
+2026-10-04T14:59:37.512Z INFO  [checkout-api] Request completed POST /api/v1/orders in 8ms
+2026-10-04T14:59:39.631Z INFO  [auth-service] User 1144 authenticated from 10.1.84.97
+2026-10-04T14:59:42.186Z INFO  [payment-worker] Charged order 570083 for $382.48
+2026-10-04T14:59:44.805Z INFO  [payment-worker] Charged order 574858 for $182.09
+2026-10-04T14:59:46.560Z INFO  [checkout-api] Request completed POST /api/v1/orders in 95ms
+2026-10-04T14:59:48.047Z INFO  [payment-worker] Charged order 557850 for $171.90
+2026-10-04T14:59:50.294Z INFO  [checkout-api] Request completed POST /api/v1/orders in 36ms
+2026-10-04T14:59:52.559Z DEBUG [checkout-api] Cache hit for key cart:2851
+2026-10-04T14:59:55.212Z WARN  [checkout-api] Slow query took 168ms: SELECT * FROM carts WHERE user_id = 9440
+2026-10-04T14:59:57.429Z INFO  [inventory] Stock level for SKU-115 updated to 45
+2026-10-04T14:59:59.673Z INFO  [checkout-api] Request completed POST /api/v1/orders in 84ms
+2026-10-04T15:00:01.829Z WARN  [checkout-api] Slow query took 51ms: SELECT * FROM carts WHERE user_id = 7012
+2026-10-04T15:00:04.273Z INFO  [auth-service] User 6790 authenticated from 10.0.182.141
+2026-10-04T15:00:06.736Z WARN  [checkout-api] Slow query took 73ms: SELECT * FROM carts WHERE user_id = 6805
+2026-10-04T15:00:08.324Z INFO  [checkout-api] Request completed GET /api/v1/cart/43871 in 55ms
+2026-10-04T15:00:11.237Z INFO  [inventory] Stock level for SKU-994 updated to 3
+2026-10-04T15:00:13.162Z INFO  [checkout-api] Request completed GET /api/v1/cart/19778 in 54ms
+2026-10-04T15:00:14.965Z INFO  [auth-service] User 4544 authenticated from 10.2.67.151
+2026-10-04T15:00:17.459Z INFO  [auth-service] User 7355 authenticated from 10.2.160.2
+2026-10-04T15:00:18.670Z DEBUG [checkout-api] Cache hit for key cart:3389
+2026-10-04T15:00:21.637Z INFO  [payment-worker] Charged order 555869 for $269.20
+2026-10-04T15:00:23.549Z INFO  [auth-service] User 2180 authenticated from 10.2.174.190
+2026-10-04T15:00:25.732Z INFO  [payment-worker] Charged order 563106 for $216.03
+2026-10-04T15:00:28.836Z INFO  [checkout-api] Request completed POST /api/v1/orders in 60ms
+2026-10-04T15:00:30.462Z INFO  [checkout-api] Request completed POST /api/v1/orders in 86ms
+2026-10-04T15:00:32.091Z INFO  [payment-worker] Charged order 563506 for $140.21
+2026-10-04T15:00:35.298Z INFO  [payment-worker] Charged order 506251 for $173.22
+2026-10-04T15:00:36.637Z INFO  [payment-worker] Charged order 516910 for $256.02
+2026-10-04T15:00:39.574Z INFO  [payment-worker] Charged order 584211 for $368.81
+2026-10-04T15:00:41.933Z INFO  [checkout-api] Request completed POST /api/v1/orders in 91ms
+2026-10-04T15:00:44.050Z INFO  [inventory] Stock level for SKU-126 updated to 21
+2026-10-04T15:00:45.831Z INFO  [auth-service] User 6393 authenticated from 10.1.47.5
+2026-10-04T15:00:48.418Z INFO  [auth-service] User 6637 authenticated from 10.1.169.59
+2026-10-04T15:00:50.109Z INFO  [checkout-api] Request completed GET /api/v1/cart/94843 in 87ms
+2026-10-04T15:00:51.654Z DEBUG [checkout-api] Cache hit for key cart:6939
+2026-10-04T15:00:54.029Z INFO  [checkout-api] Request completed GET /api/v1/cart/81207 in 136ms
+2026-10-04T15:00:57.260Z INFO  [inventory] Stock level for SKU-452 updated to 25
+2026-10-04T15:00:58.885Z INFO  [auth-service] User 1252 authenticated from 10.0.205.173
+2026-10-04T15:01:01.015Z DEBUG [checkout-api] Cache hit for key cart:4671
+2026-10-04T15:01:03.137Z INFO  [auth-service] User 5565 authenticated from 10.2.255.56
+2026-10-04T15:01:05.215Z INFO  [inventory] Stock level for SKU-355 updated to 11
+2026-10-04T15:01:07.489Z INFO  [payment-worker] Charged order 596404 for $157.11
+2026-10-04T15:01:10.450Z INFO  [checkout-api] Request completed POST /api/v1/orders in 43ms
+2026-10-04T15:01:12.145Z INFO  [auth-service] User 8610 authenticated from 10.3.46.107
+2026-10-04T15:01:14.196Z INFO  [auth-service] User 4843 authenticated from 10.1.7.10
+2026-10-04T15:01:16.444Z INFO  [checkout-api] Request completed GET /api/v1/cart/12612 in 20ms
+2026-10-04T15:01:18.045Z INFO  [checkout-api] Request completed POST /api/v1/orders in 146ms
+2026-10-04T15:01:21.600Z INFO  [inventory] Stock level for SKU-144 updated to 13
+2026-10-04T15:01:23.153Z DEBUG [checkout-api] Cache hit for key cart:5377
+2026-10-04T15:01:25.409Z WARN  [checkout-api] Slow query took 76ms: SELECT * FROM carts WHERE user_id = 7541
+2026-10-04T15:01:27.906Z DEBUG [checkout-api] Cache hit for key cart:1086
+2026-10-04T15:01:29.970Z INFO  [checkout-api] Request completed GET /api/v1/cart/91373 in 16ms
+2026-10-04T15:01:31.879Z INFO  [payment-worker] Charged order 582511 for $334.25
+2026-10-04T15:01:33.938Z INFO  [checkout-api] Request completed GET /api/v1/cart/61579 in 142ms
+2026-10-04T15:01:36.012Z INFO  [inventory] Stock level for SKU-641 updated to 24
+2026-10-04T15:01:38.574Z INFO  [payment-worker] Charged order 586745 for $198.18
+2026-10-04T15:01:41.256Z INFO  [checkout-api] Request completed GET /api/v1/cart/52200 in 105ms
+2026-10-04T15:01:42.752Z WARN  [checkout-api] Slow query took 141ms: SELECT * FROM carts WHERE user_id = 5954
+2026-10-04T15:01:44.597Z WARN  [checkout-api] Slow query took 52ms: SELECT * FROM carts WHERE user_id = 9476
+2026-10-04T15:01:46.974Z INFO  [auth-service] User 7244 authenticated from 10.2.9.143
+2026-10-04T15:01:49.668Z INFO  [auth-service] User 6308 authenticated from 10.2.123.68
+2026-10-04T15:01:52.243Z INFO  [checkout-api] Request completed POST /api/v1/orders in 116ms
+2026-10-04T15:01:54.295Z DEBUG [checkout-api] Cache hit for key cart:5207
+2026-10-04T15:01:56.810Z INFO  [inventory] Stock level for SKU-556 updated to 25
+2026-10-04T15:01:58.191Z DEBUG [checkout-api] Cache hit for key cart:1419
+2026-10-04T15:02:01.234Z INFO  [checkout-api] Request completed POST /api/v1/orders in 120ms
+2026-10-04T15:02:03.078Z DEBUG [checkout-api] Cache hit for key cart:5816
+2026-10-04T15:02:05.040Z INFO  [checkout-api] Request completed GET /api/v1/cart/23330 in 135ms
+2026-10-04T15:02:07.649Z INFO  [payment-worker] Charged order 582118 for $68.81
+2026-10-04T15:02:09.366Z INFO  [checkout-api] Request completed GET /api/v1/cart/34398 in 145ms
+2026-10-04T15:02:11.619Z INFO  [payment-worker] Charged order 549837 for $338.61
+2026-10-04T15:02:13.401Z INFO  [checkout-api] Request completed POST /api/v1/orders in 21ms
+2026-10-04T15:02:16.544Z INFO  [auth-service] User 1838 authenticated from 10.2.4.137
+2026-10-04T15:02:17.490Z INFO  [checkout-api] Request completed POST /api/v1/orders in 82ms
+2026-10-04T15:02:19.722Z DEBUG [checkout-api] Cache hit for key cart:1802
+2026-10-04T15:02:22.626Z INFO  [inventory] Stock level for SKU-832 updated to 14
+2026-10-04T15:02:24.764Z DEBUG [checkout-api] Cache hit for key cart:2499
+2026-10-04T15:02:27.201Z INFO  [checkout-api] Request completed POST /api/v1/orders in 42ms
+2026-10-04T15:02:29.431Z WARN  [checkout-api] Slow query took 87ms: SELECT * FROM carts WHERE user_id = 5227
+2026-10-04T15:02:31.100Z INFO  [checkout-api] Request completed POST /api/v1/orders in 82ms
+2026-10-04T15:02:33.791Z INFO  [checkout-api] Request completed GET /api/v1/cart/15087 in 98ms
+2026-10-04T15:02:36.286Z INFO  [checkout-api] Request completed GET /api/v1/cart/36281 in 132ms
+2026-10-04T15:02:38.424Z INFO  [checkout-api] Request completed POST /api/v1/orders in 84ms
+2026-10-04T15:02:39.511Z INFO  [auth-service] User 8881 authenticated from 10.1.168.191
+2026-10-04T15:02:42.774Z WARN  [checkout-api] Slow query took 124ms: SELECT * FROM carts WHERE user_id = 2567
+2026-10-04T15:02:44.560Z INFO  [checkout-api] Request completed GET /api/v1/cart/64133 in 173ms
+2026-10-04T15:02:46.544Z WARN  [checkout-api] Slow query took 92ms: SELECT * FROM carts WHERE user_id = 1081
+2026-10-04T15:02:48.455Z INFO  [auth-service] User 2926 authenticated from 10.2.239.63
+2026-10-04T15:02:50.800Z INFO  [checkout-api] Request completed POST /api/v1/orders in 111ms
+2026-10-04T15:02:52.789Z INFO  [checkout-api] Request completed GET /api/v1/cart/74015 in 154ms
+2026-10-04T15:02:55.435Z INFO  [payment-worker] Charged order 575827 for $98.44
+2026-10-04T15:02:58.126Z INFO  [payment-worker] Charged order 528167 for $263.10
+2026-10-04T15:03:00.381Z INFO  [auth-service] User 3995 authenticated from 10.0.162.241
+2026-10-04T15:03:02.545Z INFO  [checkout-api] Request completed POST /api/v1/orders in 50ms
+2026-10-04T15:03:04.633Z INFO  [checkout-api] Request completed GET /api/v1/cart/10373 in 130ms
+2026-10-04T15:03:06.120Z WARN  [checkout-api] Slow query took 101ms: SELECT * FROM carts WHERE user_id = 7739
+2026-10-04T15:03:09.122Z DEBUG [checkout-api] Cache hit for key cart:5963
+2026-10-04T15:03:11.396Z INFO  [inventory] Stock level for SKU-967 updated to 15
+2026-10-04T15:03:12.777Z INFO  [payment-worker] Charged order 586981 for $331.16
+2026-10-04T15:03:15.597Z INFO  [auth-service] User 2427 authenticated from 10.1.173.170
+2026-10-04T15:03:16.847Z DEBUG [checkout-api] Cache hit for key cart:2812
+2026-10-04T15:03:19.804Z INFO  [checkout-api] Request completed GET /api/v1/cart/56362 in 108ms
+2026-10-04T15:03:22.486Z DEBUG [checkout-api] Cache hit for key cart:4960
+2026-10-04T15:03:23.986Z INFO  [auth-service] User 3742 authenticated from 10.1.179.228
+2026-10-04T15:03:26.340Z INFO  [payment-worker] Charged order 522983 for $51.64
+2026-10-04T15:03:28.632Z WARN  [checkout-api] Slow query took 98ms: SELECT * FROM carts WHERE user_id = 2653
+2026-10-04T15:03:30.147Z INFO  [payment-worker] Charged order 586660 for $300.52
+2026-10-04T15:03:33.554Z INFO  [inventory] Stock level for SKU-954 updated to 44
+2026-10-04T15:03:34.608Z DEBUG [checkout-api] Cache hit for key cart:9396
+2026-10-04T15:03:36.843Z INFO  [payment-worker] Charged order 577276 for $272.65
+2026-10-04T15:03:39.908Z INFO  [auth-service] User 7892 authenticated from 10.3.43.207
+2026-10-04T15:03:41.545Z INFO  [auth-service] User 9122 authenticated from 10.0.177.229
+2026-10-04T15:03:43.468Z WARN  [checkout-api] Slow query took 51ms: SELECT * FROM carts WHERE user_id = 6111
+2026-10-04T15:03:45.703Z INFO  [auth-service] User 6257 authenticated from 10.3.206.28
+2026-10-04T15:03:48.181Z DEBUG [checkout-api] Cache hit for key cart:4341
+2026-10-04T15:03:50.054Z INFO  [inventory] Stock level for SKU-505 updated to 34
+2026-10-04T15:03:53.176Z INFO  [inventory] Stock level for SKU-680 updated to 20
+2026-10-04T15:03:54.736Z INFO  [auth-service] User 2144 authenticated from 10.0.211.214
+2026-10-04T15:03:57.344Z WARN  [checkout-api] Slow query took 38ms: SELECT * FROM carts WHERE user_id = 7616
+2026-10-04T15:03:59.852Z WARN  [checkout-api] Slow query took 144ms: SELECT * FROM carts WHERE user_id = 9539
+2026-10-04T15:04:00.934Z INFO  [checkout-api] Request completed GET /api/v1/cart/85214 in 178ms
+2026-10-04T15:04:04.145Z INFO  [inventory] Stock level for SKU-860 updated to 42
+2026-10-04T15:04:05.774Z INFO  [auth-service] User 7296 authenticated from 10.2.34.198
+2026-10-04T15:04:08.292Z INFO  [checkout-api] Request completed POST /api/v1/orders in 32ms
+2026-10-04T15:04:09.947Z DEBUG [checkout-api] Cache hit for key cart:8321
+2026-10-04T15:04:11.896Z INFO  [inventory] Stock level for SKU-643 updated to 37
+2026-10-04T15:04:14.363Z INFO  [payment-worker] Charged order 522680 for $20.66
+2026-10-04T15:04:16.834Z INFO  [checkout-api] Request completed GET /api/v1/cart/92576 in 78ms
+2026-10-04T15:04:19.374Z INFO  [checkout-api] Request completed GET /api/v1/cart/58673 in 144ms
+2026-10-04T15:04:21.998Z WARN  [checkout-api] Slow query took 124ms: SELECT * FROM carts WHERE user_id = 4125
+2026-10-04T15:04:22.948Z INFO  [payment-worker] Charged order 573435 for $319.53
+2026-10-04T15:04:26.088Z INFO  [checkout-api] Request completed GET /api/v1/cart/90361 in 12ms
+2026-10-04T15:04:28.287Z INFO  [payment-worker] Charged order 546473 for $134.66
+2026-10-04T15:04:29.686Z INFO  [auth-service] User 8455 authenticated from 10.0.175.28
+2026-10-04T15:04:33.028Z INFO  [auth-service] User 3102 authenticated from 10.0.128.131
+2026-10-04T15:04:33.871Z INFO  [checkout-api] Request completed POST /api/v1/orders in 140ms
+2026-10-04T15:04:36.341Z INFO  [payment-worker] Charged order 505668 for $92.83
+2026-10-04T15:04:39.520Z INFO  [inventory] Stock level for SKU-463 updated to 25
+2026-10-04T15:04:41.674Z INFO  [checkout-api] Request completed GET /api/v1/cart/87492 in 40ms
+2026-10-04T15:04:43.921Z INFO  [inventory] Stock level for SKU-830 updated to 16
+2026-10-04T15:04:45.844Z DEBUG [checkout-api] Cache hit for key cart:3322
+2026-10-04T15:04:47.048Z INFO  [payment-worker] Charged order 526231 for $338.92
+2026-10-04T15:04:49.309Z INFO  [checkout-api] Request completed POST /api/v1/orders in 180ms
+2026-10-04T15:04:52.780Z INFO  [inventory] Stock level for SKU-490 updated to 1
+2026-10-04T15:04:53.742Z INFO  [checkout-api] Request completed GET /api/v1/cart/82862 in 173ms
+2026-10-04T15:04:56.780Z INFO  [payment-worker] Charged order 592816 for $276.17
+2026-10-04T15:04:58.642Z INFO  [checkout-api] Request completed GET /api/v1/cart/90305 in 30ms
+2026-10-04T15:05:00.367Z INFO  [auth-service] User 5845 authenticated from 10.1.252.156
+2026-10-04T15:05:02.451Z INFO  [checkout-api] Request completed GET /api/v1/cart/15708 in 37ms
+2026-10-04T15:05:04.936Z INFO  [inventory] Stock level for SKU-156 updated to 12
+2026-10-04T15:05:07.707Z INFO  [auth-service] User 3197 authenticated from 10.2.153.217
+2026-10-04T15:05:09.268Z INFO  [checkout-api] Request completed POST /api/v1/orders in 175ms
+2026-10-04T15:05:11.718Z INFO  [payment-worker] Charged order 510392 for $227.66
+2026-10-04T15:05:14.597Z INFO  [auth-service] User 6520 authenticated from 10.2.32.138
+2026-10-04T15:05:16.384Z WARN  [checkout-api] Slow query took 145ms: SELECT * FROM carts WHERE user_id = 5013
+2026-10-04T15:05:18.841Z DEBUG [checkout-api] Cache hit for key cart:8176
+2026-10-04T15:05:20.169Z INFO  [inventory] Stock level for SKU-411 updated to 5
+2026-10-04T15:05:22.330Z INFO  [checkout-api] Request completed GET /api/v1/cart/80212 in 11ms
+2026-10-04T15:05:25.798Z WARN  [checkout-api] Slow query took 123ms: SELECT * FROM carts WHERE user_id = 3914
+2026-10-04T15:05:27.264Z WARN  [checkout-api] Slow query took 125ms: SELECT * FROM carts WHERE user_id = 6608
+2026-10-04T15:05:30.038Z INFO  [inventory] Stock level for SKU-191 updated to 11
+2026-10-04T15:05:32.136Z WARN  [checkout-api] Slow query took 87ms: SELECT * FROM carts WHERE user_id = 5309
+2026-10-04T15:05:33.596Z INFO  [checkout-api] Request completed GET /api/v1/cart/84660 in 157ms
+2026-10-04T15:05:35.950Z WARN  [checkout-api] Slow query took 43ms: SELECT * FROM carts WHERE user_id = 7051
+2026-10-04T15:05:38.914Z INFO  [checkout-api] Request completed POST /api/v1/orders in 105ms
+2026-10-04T15:05:40.178Z DEBUG [checkout-api] Cache hit for key cart:1828
+2026-10-04T15:05:42.655Z INFO  [checkout-api] Request completed GET /api/v1/cart/24402 in 125ms
+2026-10-04T15:05:44.837Z INFO  [checkout-api] Request completed GET /api/v1/cart/25507 in 56ms
+2026-10-04T15:05:46.521Z INFO  [payment-worker] Charged order 556604 for $224.71
+2026-10-04T15:05:48.880Z INFO  [inventory] Stock level for SKU-571 updated to 47
+2026-10-04T15:05:51.025Z INFO  [inventory] Stock level for SKU-169 updated to 8
+2026-10-04T15:05:54.026Z DEBUG [checkout-api] Cache hit for key cart:3948
+2026-10-04T15:05:56.149Z INFO  [inventory] Stock level for SKU-977 updated to 24
+2026-10-04T15:05:58.360Z WARN  [checkout-api] Slow query took 66ms: SELECT * FROM carts WHERE user_id = 1256
+2026-10-04T15:06:01.007Z INFO  [inventory] Stock level for SKU-112 updated to 24
+2026-10-04T15:06:03.169Z INFO  [checkout-api] Request completed POST /api/v1/orders in 130ms
+2026-10-04T15:06:04.475Z INFO  [inventory] Stock level for SKU-784 updated to 46
+2026-10-04T15:06:06.273Z INFO  [auth-service] User 1002 authenticated from 10.1.132.156
+2026-10-04T15:06:08.982Z INFO  [auth-service] User 2974 authenticated from 10.2.213.39
+2026-10-04T15:06:11.091Z INFO  [inventory] Stock level for SKU-908 updated to 27
+2026-10-04T15:06:13.195Z INFO  [payment-worker] Charged order 506762 for $188.02
+2026-10-04T15:06:16.395Z INFO  [auth-service] User 3870 authenticated from 10.1.215.19
+2026-10-04T15:06:18.156Z INFO  [payment-worker] Charged order 569522 for $249.97
+2026-10-04T15:06:20.699Z INFO  [payment-worker] Charged order 590714 for $402.16
+2026-10-04T15:06:22.218Z INFO  [payment-worker] Charged order 543006 for $337.63
+2026-10-04T15:06:24.506Z WARN  [checkout-api] Slow query took 54ms: SELECT * FROM carts WHERE user_id = 8626
+2026-10-04T15:06:26.614Z INFO  [checkout-api] Request completed POST /api/v1/orders in 102ms
+2026-10-04T15:06:28.542Z INFO  [auth-service] User 9353 authenticated from 10.1.207.158
+2026-10-04T15:06:31.077Z INFO  [auth-service] User 6827 authenticated from 10.2.223.81
+2026-10-04T15:06:33.588Z INFO  [inventory] Stock level for SKU-749 updated to 16
+2026-10-04T15:06:35.828Z INFO  [inventory] Stock level for SKU-970 updated to 43
+2026-10-04T15:06:38.266Z INFO  [payment-worker] Charged order 509181 for $337.14
+2026-10-04T15:06:39.361Z INFO  [checkout-api] Request completed POST /api/v1/orders in 52ms
+2026-10-04T15:06:41.474Z INFO  [checkout-api] Request completed GET /api/v1/cart/21598 in 58ms
+2026-10-04T15:06:44.687Z INFO  [inventory] Stock level for SKU-739 updated to 4
+2026-10-04T15:06:46.816Z INFO  [auth-service] User 6598 authenticated from 10.3.72.49
+2026-10-04T15:06:49.093Z INFO  [inventory] Stock level for SKU-196 updated to 5
+2026-10-04T15:06:51.062Z INFO  [checkout-api] Request completed POST /api/v1/orders in 127ms
+2026-10-04T15:06:52.743Z INFO  [inventory] Stock level for SKU-158 updated to 2
+2026-10-04T15:06:54.961Z INFO  [checkout-api] Request completed GET /api/v1/cart/38964 in 139ms
+2026-10-04T15:06:58.234Z INFO  [auth-service] User 2016 authenticated from 10.1.237.198
+2026-10-04T15:07:00.383Z INFO  [inventory] Stock level for SKU-400 updated to 4
+2026-10-04T15:07:01.696Z INFO  [checkout-api] Request completed POST /api/v1/orders in 52ms
+2026-10-04T15:07:04.171Z INFO  [auth-service] User 9671 authenticated from 10.2.38.28
+2026-10-04T15:07:06.318Z INFO  [auth-service] User 4635 authenticated from 10.3.162.219
+2026-10-04T15:07:08.828Z INFO  [payment-worker] Charged order 583467 for $388.13
+2026-10-04T15:07:11.242Z INFO  [payment-worker] Charged order 508983 for $359.35
+2026-10-04T15:07:12.718Z INFO  [payment-worker] Charged order 537752 for $382.93
+2026-10-04T15:07:15.183Z WARN  [checkout-api] Slow query took 88ms: SELECT * FROM carts WHERE user_id = 3686
+2026-10-04T15:07:17.632Z INFO  [auth-service] User 8505 authenticated from 10.0.46.67
+2026-10-04T15:07:19.503Z INFO  [checkout-api] Request completed POST /api/v1/orders in 81ms
+2026-10-04T15:07:22.255Z INFO  [payment-worker] Charged order 591137 for $70.04
+2026-10-04T15:07:23.691Z INFO  [checkout-api] Request completed POST /api/v1/orders in 56ms
+2026-10-04T15:07:25.797Z INFO  [checkout-api] Request completed GET /api/v1/cart/14918 in 91ms
+2026-10-04T15:07:28.193Z INFO  [auth-service] User 1206 authenticated from 10.3.125.210
+2026-10-04T15:07:30.898Z INFO  [inventory] Stock level for SKU-652 updated to 46
+2026-10-04T15:07:32.512Z INFO  [inventory] Stock level for SKU-655 updated to 42
+2026-10-04T15:07:35.516Z INFO  [inventory] Stock level for SKU-319 updated to 47
+2026-10-04T15:07:36.918Z INFO  [checkout-api] Request completed POST /api/v1/orders in 33ms
+2026-10-04T15:07:38.736Z WARN  [checkout-api] Slow query took 58ms: SELECT * FROM carts WHERE user_id = 8570
+2026-10-04T15:07:41.726Z INFO  [payment-worker] Charged order 513878 for $255.55
+2026-10-04T15:07:43.137Z DEBUG [checkout-api] Cache hit for key cart:4720
+2026-10-04T15:07:46.449Z WARN  [checkout-api] Slow query took 16ms: SELECT * FROM carts WHERE user_id = 8561
+2026-10-04T15:07:48.174Z INFO  [inventory] Stock level for SKU-855 updated to 28
+2026-10-04T15:07:49.862Z WARN  [checkout-api] Slow query took 114ms: SELECT * FROM carts WHERE user_id = 4305
+2026-10-04T15:07:52.607Z INFO  [payment-worker] Charged order 502300 for $383.09
+2026-10-04T15:07:54.199Z INFO  [payment-worker] Charged order 565850 for $358.83
+2026-10-04T15:07:57.578Z INFO  [payment-worker] Charged order 557444 for $339.20
+2026-10-04T15:07:59.284Z INFO  [auth-service] User 4830 authenticated from 10.3.110.132
+2026-10-04T15:08:00.649Z INFO  [auth-service] User 9823 authenticated from 10.2.118.133
+2026-10-04T15:08:04.207Z WARN  [checkout-api] Slow query took 126ms: SELECT * FROM carts WHERE user_id = 4536
+2026-10-04T15:08:06.258Z INFO  [inventory] Stock level for SKU-656 updated to 22
+2026-10-04T15:08:07.812Z WARN  [checkout-api] Slow query took 58ms: SELECT * FROM carts WHERE user_id = 4730
+2026-10-04T15:08:10.330Z DEBUG [checkout-api] Cache hit for key cart:4164
+2026-10-04T15:08:12.717Z INFO  [payment-worker] Charged order 577590 for $218.19
+2026-10-04T15:08:14.167Z INFO  [auth-service] User 7609 authenticated from 10.0.181.188
+2026-10-04T15:08:17.217Z WARN  [checkout-api] Slow query took 127ms: SELECT * FROM carts WHERE user_id = 9976
+2026-10-04T15:08:19.238Z WARN  [checkout-api] Slow query took 118ms: SELECT * FROM carts WHERE user_id = 5886
+2026-10-04T15:08:21.633Z INFO  [inventory] Stock level for SKU-286 updated to 19
+2026-10-04T15:08:22.802Z INFO  [inventory] Stock level for SKU-120 updated to 23
+2026-10-04T15:08:25.610Z INFO  [inventory] Stock level for SKU-678 updated to 17
+2026-10-04T15:08:27.064Z INFO  [inventory] Stock level for SKU-606 updated to 11
+2026-10-04T15:08:30.556Z DEBUG [checkout-api] Cache hit for key cart:4164
+2026-10-04T15:08:31.522Z INFO  [auth-service] User 3357 authenticated from 10.0.76.112
+2026-10-04T15:08:34.181Z INFO  [checkout-api] Request completed GET /api/v1/cart/92518 in 53ms
+2026-10-04T15:08:36.300Z WARN  [checkout-api] Slow query took 51ms: SELECT * FROM carts WHERE user_id = 2840
+2026-10-04T15:08:39.359Z INFO  [checkout-api] Request completed POST /api/v1/orders in 38ms
+2026-10-04T15:08:41.634Z WARN  [checkout-api] Slow query took 50ms: SELECT * FROM carts WHERE user_id = 3947
+2026-10-04T15:08:43.312Z INFO  [checkout-api] Request completed GET /api/v1/cart/67616 in 148ms
+2026-10-04T15:08:45.195Z INFO  [checkout-api] Request completed POST /api/v1/orders in 151ms
+2026-10-04T15:08:46.847Z INFO  [inventory] Stock level for SKU-518 updated to 22
+2026-10-04T15:08:50.385Z INFO  [payment-worker] Charged order 527650 for $334.60
+2026-10-04T15:08:52.391Z INFO  [payment-worker] Charged order 571568 for $209.87
+2026-10-04T15:08:54.130Z INFO  [inventory] Stock level for SKU-537 updated to 46
+2026-10-04T15:08:56.948Z INFO  [checkout-api] Request completed GET /api/v1/cart/87197 in 42ms
+2026-10-04T15:08:59.077Z INFO  [inventory] Stock level for SKU-406 updated to 14
+2026-10-04T15:09:00.132Z INFO  [auth-service] User 4370 authenticated from 10.3.142.117
+2026-10-04T15:09:03.571Z DEBUG [checkout-api] Cache hit for key cart:3373
+2026-10-04T15:09:05.333Z DEBUG [checkout-api] Cache hit for key cart:9296
+2026-10-04T15:09:06.942Z INFO  [payment-worker] Charged order 517907 for $274.18
+2026-10-04T15:09:09.744Z INFO  [inventory] Stock level for SKU-904 updated to 15
+2026-10-04T15:09:11.391Z INFO  [checkout-api] Request completed GET /api/v1/cart/38987 in 49ms
+2026-10-04T15:09:13.379Z DEBUG [checkout-api] Cache hit for key cart:7283
+2026-10-04T15:09:16.170Z INFO  [checkout-api] Request completed GET /api/v1/cart/82629 in 89ms
+2026-10-04T15:09:18.156Z INFO  [payment-worker] Charged order 512497 for $160.12
+2026-10-04T15:09:20.539Z INFO  [auth-service] User 9969 authenticated from 10.1.160.198
+2026-10-04T15:09:23.380Z DEBUG [checkout-api] Cache hit for key cart:6936
+2026-10-04T15:09:25.088Z INFO  [auth-service] User 2054 authenticated from 10.3.5.54
+2026-10-04T15:09:27.369Z INFO  [inventory] Stock level for SKU-830 updated to 43
+2026-10-04T15:09:28.643Z INFO  [checkout-api] Request completed GET /api/v1/cart/65908 in 30ms
+2026-10-04T15:09:31.587Z INFO  [checkout-api] Request completed POST /api/v1/orders in 154ms
+2026-10-04T15:09:34.274Z INFO  [payment-worker] Charged order 578192 for $350.30
+2026-10-04T15:09:36.402Z INFO  [auth-service] User 8009 authenticated from 10.2.11.245
+2026-10-04T15:09:38.185Z DEBUG [checkout-api] Cache hit for key cart:6987
+2026-10-04T15:09:39.862Z INFO  [checkout-api] Request completed POST /api/v1/orders in 158ms
+2026-10-04T15:09:42.419Z INFO  [payment-worker] Charged order 599199 for $11.36
+2026-10-04T15:09:44.379Z INFO  [checkout-api] Request completed GET /api/v1/cart/72580 in 158ms
+2026-10-04T15:09:46.875Z INFO  [payment-worker] Charged order 510769 for $327.11
+2026-10-04T15:09:48.915Z INFO  [checkout-api] Request completed GET /api/v1/cart/65520 in 86ms
+2026-10-04T15:09:51.945Z INFO  [checkout-api] Request completed GET /api/v1/cart/77311 in 117ms
+2026-10-04T15:09:53.947Z INFO  [auth-service] User 6494 authenticated from 10.0.52.134
+2026-10-04T15:09:55.607Z INFO  [checkout-api] Request completed POST /api/v1/orders in 61ms
+2026-10-04T15:09:57.553Z DEBUG [checkout-api] Cache hit for key cart:7683
+2026-10-04T15:09:59.903Z INFO  [checkout-api] Request completed GET /api/v1/cart/62527 in 114ms
+2026-10-04T15:10:02.929Z INFO  [checkout-api] Request completed GET /api/v1/cart/60126 in 136ms
+2026-10-04T15:10:04.250Z INFO  [payment-worker] Charged order 516653 for $280.25
+2026-10-04T15:10:06.300Z WARN  [checkout-api] Slow query took 27ms: SELECT * FROM carts WHERE user_id = 2849
+2026-10-04T15:10:08.728Z WARN  [checkout-api] Slow query took 112ms: SELECT * FROM carts WHERE user_id = 5537
+2026-10-04T15:10:11.457Z INFO  [inventory] Stock level for SKU-326 updated to 1
+2026-10-04T15:10:12.855Z INFO  [inventory] Stock level for SKU-959 updated to 37
+2026-10-04T15:10:15.587Z INFO  [auth-service] User 8912 authenticated from 10.2.64.96
+2026-10-04T15:10:17.908Z WARN  [checkout-api] Slow query took 40ms: SELECT * FROM carts WHERE user_id = 9255
+2026-10-04T15:10:19.651Z INFO  [checkout-api] Request completed GET /api/v1/cart/92363 in 122ms
+2026-10-04T15:10:21.851Z INFO  [inventory] Stock level for SKU-826 updated to 20
+2026-10-04T15:10:24.278Z INFO  [checkout-api] Request completed GET /api/v1/cart/57235 in 175ms
+2026-10-04T15:10:26.812Z INFO  [auth-service] User 6599 authenticated from 10.2.209.9
+2026-10-04T15:10:29.257Z INFO  [auth-service] User 6520 authenticated from 10.3.55.185
+2026-10-04T15:10:30.758Z INFO  [auth-service] User 3148 authenticated from 10.2.215.223
+2026-10-04T15:10:32.656Z WARN  [checkout-api] Slow query took 48ms: SELECT * FROM carts WHERE user_id = 6770
+2026-10-04T15:10:35.833Z INFO  [checkout-api] Request completed GET /api/v1/cart/65996 in 116ms
+2026-10-04T15:10:37.556Z INFO  [payment-worker] Charged order 501452 for $311.39
+2026-10-04T15:10:39.490Z INFO  [checkout-api] Request completed POST /api/v1/orders in 16ms
+2026-10-04T15:10:41.379Z WARN  [checkout-api] Slow query took 67ms: SELECT * FROM carts WHERE user_id = 8721
+2026-10-04T15:10:43.567Z DEBUG [checkout-api] Cache hit for key cart:4486
+2026-10-04T15:10:46.106Z DEBUG [checkout-api] Cache hit for key cart:7920
+2026-10-04T15:10:48.956Z INFO  [inventory] Stock level for SKU-489 updated to 30
+2026-10-04T15:10:50.360Z INFO  [payment-worker] Charged order 513710 for $411.34
+2026-10-04T15:10:53.288Z INFO  [checkout-api] Request completed GET /api/v1/cart/50719 in 126ms
+2026-10-04T15:10:55.015Z DEBUG [checkout-api] Cache hit for key cart:9455
+2026-10-04T15:10:57.047Z INFO  [payment-worker] Charged order 580585 for $238.86
+2026-10-04T15:10:59.907Z INFO  [payment-worker] Charged order 588341 for $356.30
+2026-10-04T15:11:01.625Z INFO  [auth-service] User 1060 authenticated from 10.1.101.171
+2026-10-04T15:11:03.567Z INFO  [inventory] Stock level for SKU-428 updated to 44
+2026-10-04T15:11:06.003Z INFO  [checkout-api] Request completed GET /api/v1/cart/75145 in 147ms
+2026-10-04T15:11:08.777Z INFO  [payment-worker] Charged order 570019 for $64.08
+2026-10-04T15:11:10.704Z INFO  [checkout-api] Request completed POST /api/v1/orders in 87ms
+2026-10-04T15:11:12.218Z INFO  [inventory] Stock level for SKU-739 updated to 3
+2026-10-04T15:11:15.070Z WARN  [checkout-api] Slow query took 45ms: SELECT * FROM carts WHERE user_id = 5383
+2026-10-04T15:11:17.057Z INFO  [inventory] Stock level for SKU-126 updated to 9
+2026-10-04T15:11:19.112Z INFO  [checkout-api] Request completed GET /api/v1/cart/19456 in 13ms
+2026-10-04T15:11:22.108Z INFO  [inventory] Stock level for SKU-193 updated to 43
+2026-10-04T15:11:23.814Z INFO  [payment-worker] Charged order 559760 for $349.93
+2026-10-04T15:11:25.620Z INFO  [inventory] Stock level for SKU-550 updated to 24
+2026-10-04T15:11:28.087Z INFO  [auth-service] User 1435 authenticated from 10.2.205.54
+2026-10-04T15:11:30.948Z INFO  [checkout-api] Request completed POST /api/v1/orders in 47ms
+2026-10-04T15:11:32.852Z INFO  [auth-service] User 5320 authenticated from 10.2.178.163
+2026-10-04T15:11:34.851Z INFO  [checkout-api] Request completed POST /api/v1/orders in 119ms
+2026-10-04T15:11:37.117Z INFO  [checkout-api] Request completed POST /api/v1/orders in 82ms
+2026-10-04T15:11:39.628Z INFO  [checkout-api] Request completed POST /api/v1/orders in 52ms
+2026-10-04T15:11:40.849Z INFO  [checkout-api] Request completed POST /api/v1/orders in 56ms
+2026-10-04T15:11:42.864Z INFO  [inventory] Stock level for SKU-708 updated to 15
+2026-10-04T15:11:46.356Z INFO  [checkout-api] Request completed POST /api/v1/orders in 96ms
+2026-10-04T15:11:47.671Z INFO  [auth-service] User 1981 authenticated from 10.0.101.64
+2026-10-04T15:11:49.809Z INFO  [checkout-api] Request completed POST /api/v1/orders in 8ms
+2026-10-04T15:11:51.801Z INFO  [checkout-api] Request completed POST /api/v1/orders in 37ms
+2026-10-04T15:11:54.332Z INFO  [auth-service] User 9740 authenticated from 10.3.114.80
+2026-10-04T15:11:57.088Z WARN  [checkout-api] Slow query took 157ms: SELECT * FROM carts WHERE user_id = 9697
+2026-10-04T15:11:58.536Z INFO  [checkout-api] Request completed GET /api/v1/cart/83362 in 63ms
+2026-10-04T15:12:00.460Z WARN  [checkout-api] Slow query took 169ms: SELECT * FROM carts WHERE user_id = 3585
+2026-10-04T15:12:03.531Z INFO  [checkout-api] Request completed POST /api/v1/orders in 172ms
+2026-10-04T15:12:05.677Z INFO  [auth-service] User 1795 authenticated from 10.0.146.12
+2026-10-04T15:12:08.172Z INFO  [checkout-api] Request completed GET /api/v1/cart/22019 in 172ms
+2026-10-04T15:12:10.104Z WARN  [checkout-api] Slow query took 114ms: SELECT * FROM carts WHERE user_id = 3004
+2026-10-04T15:12:12.050Z INFO  [checkout-api] Request completed POST /api/v1/orders in 59ms
+2026-10-04T15:12:14.462Z WARN  [checkout-api] Slow query took 75ms: SELECT * FROM carts WHERE user_id = 4326
+2026-10-04T15:12:16.686Z INFO  [checkout-api] Request completed POST /api/v1/orders in 46ms
+2026-10-04T15:12:18.663Z INFO  [inventory] Stock level for SKU-618 updated to 46
+2026-10-04T15:12:21.386Z INFO  [inventory] Stock level for SKU-327 updated to 41
+2026-10-04T15:12:22.555Z INFO  [checkout-api] Request completed GET /api/v1/cart/82451 in 57ms
+2026-10-04T15:12:25.079Z INFO  [checkout-api] Request completed GET /api/v1/cart/83830 in 32ms
+2026-10-04T15:12:26.931Z WARN  [checkout-api] Slow query took 158ms: SELECT * FROM carts WHERE user_id = 5551
+2026-10-04T15:12:29.861Z INFO  [auth-service] User 9341 authenticated from 10.0.48.206
+2026-10-04T15:12:31.402Z INFO  [payment-worker] Charged order 567248 for $121.54
+2026-10-04T15:12:34.827Z DEBUG [checkout-api] Cache hit for key cart:4342
+2026-10-04T15:12:35.887Z INFO  [auth-service] User 7540 authenticated from 10.3.89.183
+2026-10-04T15:12:38.099Z WARN  [checkout-api] Slow query took 143ms: SELECT * FROM carts WHERE user_id = 7874
+2026-10-04T15:12:40.565Z WARN  [checkout-api] Slow query took 174ms: SELECT * FROM carts WHERE user_id = 5682
+2026-10-04T15:12:43.329Z INFO  [payment-worker] Charged order 573198 for $394.76
+2026-10-04T15:12:45.672Z INFO  [auth-service] User 6446 authenticated from 10.2.188.252
+2026-10-04T15:12:46.879Z INFO  [checkout-api] Request completed POST /api/v1/orders in 143ms
+2026-10-04T15:12:49.612Z INFO  [inventory] Stock level for SKU-545 updated to 15
+2026-10-04T15:12:51.573Z INFO  [checkout-api] Request completed GET /api/v1/cart/67746 in 169ms
+2026-10-04T15:12:54.072Z DEBUG [checkout-api] Cache hit for key cart:9258
+2026-10-04T15:12:56.244Z INFO  [checkout-api] Request completed GET /api/v1/cart/26332 in 159ms
+2026-10-04T15:12:58.013Z DEBUG [checkout-api] Cache hit for key cart:2474
+2026-10-04T15:13:00.297Z INFO  [payment-worker] Charged order 592586 for $314.64
+2026-10-04T15:13:02.968Z DEBUG [checkout-api] Cache hit for key cart:8364
+2026-10-04T15:13:05.108Z INFO  [inventory] Stock level for SKU-292 updated to 22
+2026-10-04T15:13:07.836Z DEBUG [checkout-api] Cache hit for key cart:3841
+2026-10-04T15:13:09.878Z WARN  [checkout-api] Slow query took 137ms: SELECT * FROM carts WHERE user_id = 2411
+2026-10-04T15:13:11.174Z INFO  [auth-service] User 7811 authenticated from 10.3.29.166
+2026-10-04T15:13:14.144Z DEBUG [checkout-api] Cache hit for key cart:6499
+2026-10-04T15:13:16.218Z INFO  [auth-service] User 7201 authenticated from 10.2.6.246
+2026-10-04T15:13:18.783Z DEBUG [checkout-api] Cache hit for key cart:7153
+2026-10-04T15:13:20.246Z INFO  [payment-worker] Charged order 579383 for $370.06
+2026-10-04T15:13:22.228Z INFO  [checkout-api] Request completed GET /api/v1/cart/72200 in 71ms
+2026-10-04T15:13:24.114Z INFO  [auth-service] User 7545 authenticated from 10.0.220.118
+2026-10-04T15:13:27.114Z DEBUG [checkout-api] Cache hit for key cart:9739
+2026-10-04T15:13:29.668Z INFO  [checkout-api] Request completed GET /api/v1/cart/42026 in 15ms
+2026-10-04T15:13:31.646Z INFO  [payment-worker] Charged order 567636 for $373.27
+2026-10-04T15:13:33.966Z INFO  [checkout-api] Request completed POST /api/v1/orders in 81ms
+2026-10-04T15:13:36.215Z INFO  [checkout-api] Request completed GET /api/v1/cart/62059 in 148ms
+2026-10-04T15:13:38.222Z INFO  [payment-worker] Charged order 515825 for $98.09
+2026-10-04T15:13:39.762Z INFO  [checkout-api] Request completed GET /api/v1/cart/17109 in 74ms
+2026-10-04T15:13:42.930Z INFO  [auth-service] User 3380 authenticated from 10.3.141.207
+2026-10-04T15:13:44.701Z INFO  [auth-service] User 1333 authenticated from 10.0.103.200
+2026-10-04T15:13:46.178Z INFO  [auth-service] User 9853 authenticated from 10.1.226.28
+2026-10-04T15:13:48.531Z INFO  [inventory] Stock level for SKU-994 updated to 27
+2026-10-04T15:13:51.317Z INFO  [checkout-api] Request completed GET /api/v1/cart/14073 in 109ms
+2026-10-04T15:13:53.385Z WARN  [checkout-api] Slow query took 106ms: SELECT * FROM carts WHERE user_id = 2097
+2026-10-04T15:13:55.296Z INFO  [auth-service] User 8874 authenticated from 10.2.194.160
+2026-10-04T15:13:57.834Z INFO  [inventory] Stock level for SKU-886 updated to 42
+2026-10-04T15:13:59.460Z DEBUG [checkout-api] Cache hit for key cart:8883
+2026-10-04T15:14:02.477Z DEBUG [checkout-api] Cache hit for key cart:6041
+2026-10-04T15:14:04.918Z INFO  [inventory] Stock level for SKU-523 updated to 46
+2026-10-04T15:14:07.228Z INFO  [checkout-api] Request completed GET /api/v1/cart/45996 in 145ms
+2026-10-04T15:14:08.316Z INFO  [inventory] Stock level for SKU-690 updated to 43
+2026-10-04T15:14:11.487Z DEBUG [checkout-api] Cache hit for key cart:6989
+2026-10-04T15:14:13.490Z INFO  [inventory] Stock level for SKU-655 updated to 28
+2026-10-04T15:14:15.102Z DEBUG [checkout-api] Cache hit for key cart:8311
+2026-10-04T15:14:16.920Z INFO  [auth-service] User 4872 authenticated from 10.3.152.114
+2026-10-04T15:14:20.066Z INFO  [checkout-api] Request completed POST /api/v1/orders in 61ms
+2026-10-04T15:14:21.335Z INFO  [payment-worker] Charged order 510330 for $209.19
+2026-10-04T15:14:24.005Z WARN  [checkout-api] Slow query took 103ms: SELECT * FROM carts WHERE user_id = 8302
+2026-10-04T15:14:26.276Z WARN  [checkout-api] Slow query took 42ms: SELECT * FROM carts WHERE user_id = 7434
+2026-10-04T15:14:28.735Z INFO  [checkout-api] Request completed GET /api/v1/cart/82733 in 93ms
+2026-10-04T15:14:31.137Z WARN  [checkout-api] Slow query took 85ms: SELECT * FROM carts WHERE user_id = 9178
+2026-10-04T15:14:33.306Z INFO  [payment-worker] Charged order 571469 for $293.62
+2026-10-04T15:14:35.347Z DEBUG [checkout-api] Cache hit for key cart:4430
+2026-10-04T15:14:37.614Z INFO  [auth-service] User 8261 authenticated from 10.1.145.137
+2026-10-04T15:14:40.224Z DEBUG [checkout-api] Cache hit for key cart:2571
+2026-10-04T15:14:41.620Z INFO  [auth-service] User 3420 authenticated from 10.0.155.65
+2026-10-04T15:14:44.479Z INFO  [auth-service] User 6629 authenticated from 10.2.6.57
+2026-10-04T15:14:46.557Z INFO  [auth-service] User 6061 authenticated from 10.2.6.132
+2026-10-04T15:14:48.534Z INFO  [auth-service] User 3944 authenticated from 10.3.128.23
+2026-10-04T15:14:50.353Z INFO  [payment-worker] Charged order 565383 for $144.46
+2026-10-04T15:14:53.281Z INFO  [payment-worker] Charged order 591826 for $224.14
+2026-10-04T15:14:55.194Z DEBUG [checkout-api] Cache hit for key cart:7118
+2026-10-04T15:14:56.704Z WARN  [checkout-api] Slow query took 18ms: SELECT * FROM carts WHERE user_id = 2401
+2026-10-04T15:14:59.976Z WARN  [checkout-api] Slow query took 140ms: SELECT * FROM carts WHERE user_id = 3434
+2026-10-04T15:15:00.952Z DEBUG [checkout-api] Cache hit for key cart:4394
+2026-10-04T15:15:03.805Z INFO  [checkout-api] Request completed GET /api/v1/cart/70351 in 65ms
+2026-10-04T15:15:05.685Z WARN  [checkout-api] Slow query took 113ms: SELECT * FROM carts WHERE user_id = 2708
+2026-10-04T15:15:08.101Z INFO  [inventory] Stock level for SKU-979 updated to 23
+2026-10-04T15:15:10.589Z DEBUG [checkout-api] Cache hit for key cart:2350
+2026-10-04T15:15:12.766Z INFO  [auth-service] User 7725 authenticated from 10.2.21.70
+2026-10-04T15:15:15.248Z INFO  [checkout-api] Request completed POST /api/v1/orders in 15ms
+2026-10-04T15:15:16.828Z INFO  [checkout-api] Request completed GET /api/v1/cart/76327 in 34ms
+2026-10-04T15:15:18.644Z INFO  [payment-worker] Charged order 511141 for $107.31
+2026-10-04T15:15:21.150Z INFO  [checkout-api] Request completed GET /api/v1/cart/77038 in 144ms
+2026-10-04T15:15:23.161Z INFO  [checkout-api] Request completed GET /api/v1/cart/64808 in 54ms
+2026-10-04T15:15:26.103Z INFO  [auth-service] User 3346 authenticated from 10.3.240.43
+2026-10-04T15:15:28.367Z INFO  [checkout-api] Request completed GET /api/v1/cart/37546 in 120ms
+2026-10-04T15:15:30.228Z WARN  [checkout-api] Slow query took 20ms: SELECT * FROM carts WHERE user_id = 5406
+2026-10-04T15:15:32.102Z WARN  [checkout-api] Slow query took 25ms: SELECT * FROM carts WHERE user_id = 8082
+2026-10-04T15:15:34.257Z INFO  [payment-worker] Charged order 564977 for $193.50
+2026-10-04T15:15:36.555Z INFO  [checkout-api] Request completed POST /api/v1/orders in 11ms
+2026-10-04T15:15:39.412Z INFO  [checkout-api] Request completed POST /api/v1/orders in 73ms
+2026-10-04T15:15:40.601Z INFO  [payment-worker] Charged order 594969 for $341.48
+2026-10-04T15:15:43.304Z INFO  [inventory] Stock level for SKU-835 updated to 47
+2026-10-04T15:15:46.240Z INFO  [payment-worker] Charged order 557619 for $260.51
+2026-10-04T15:15:48.060Z INFO  [payment-worker] Charged order 553795 for $393.77
+2026-10-04T15:15:49.941Z INFO  [inventory] Stock level for SKU-252 updated to 33
+2026-10-04T15:15:51.815Z INFO  [payment-worker] Charged order 591907 for $189.28
+2026-10-04T15:15:54.463Z DEBUG [checkout-api] Cache hit for key cart:6443
+2026-10-04T15:15:57.214Z INFO  [checkout-api] Request completed POST /api/v1/orders in 20ms
+2026-10-04T15:15:59.414Z INFO  [inventory] Stock level for SKU-797 updated to 50
+2026-10-04T15:16:01.002Z INFO  [checkout-api] Request completed GET /api/v1/cart/98298 in 118ms
+2026-10-04T15:16:03.140Z INFO  [payment-worker] Charged order 597659 for $372.70
+2026-10-04T15:16:04.800Z ERROR [payment-worker] Failed to charge order 531738: upstream timeout after 1957ms
+2026-10-04T15:16:07.970Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:16:09.319Z INFO  [payment-worker] Charged order 579964 for $44.65
+2026-10-04T15:16:11.360Z WARN  [checkout-api] Retrying order 581967, attempt 43
+2026-10-04T15:16:14.164Z WARN  [checkout-api] Retrying order 567345, attempt 36
+2026-10-04T15:16:16.972Z WARN  [checkout-api] Retrying order 585228, attempt 2
+2026-10-04T15:16:18.684Z INFO  [checkout-api] Request completed POST /api/v1/orders in 2105ms
+2026-10-04T15:16:20.287Z FATAL [payment-worker] Circuit breaker opened for payments-db after 26 failures
+2026-10-04T15:16:22.759Z INFO  [payment-worker] Charged order 533473 for $259.50
+2026-10-04T15:16:24.892Z WARN  [checkout-api] Retrying order 507261, attempt 18
+2026-10-04T15:16:27.611Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:16:29.885Z INFO  [auth-service] User 6834 authenticated from 10.2.230.71
+2026-10-04T15:16:31.921Z FATAL [payment-worker] Circuit breaker opened for payments-db after 16 failures
+2026-10-04T15:16:33.385Z FATAL [payment-worker] Circuit breaker opened for payments-db after 50 failures
+2026-10-04T15:16:36.741Z ERROR [payment-worker] Failed to charge order 530416: upstream timeout after 3060ms
+2026-10-04T15:16:38.665Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 578580
+2026-10-04T15:16:41.185Z FATAL [payment-worker] Circuit breaker opened for payments-db after 24 failures
+2026-10-04T15:16:42.835Z FATAL [payment-worker] Circuit breaker opened for payments-db after 42 failures
+2026-10-04T15:16:44.868Z WARN  [checkout-api] Retrying order 595251, attempt 5
+2026-10-04T15:16:47.020Z ERROR [payment-worker] Failed to charge order 529075: upstream timeout after 2630ms
+2026-10-04T15:16:49.042Z FATAL [payment-worker] Circuit breaker opened for payments-db after 26 failures
+2026-10-04T15:16:50.897Z WARN  [checkout-api] Retrying order 523034, attempt 48
+2026-10-04T15:16:53.897Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:16:55.703Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:16:57.586Z FATAL [payment-worker] Circuit breaker opened for payments-db after 42 failures
+2026-10-04T15:17:00.146Z FATAL [payment-worker] Circuit breaker opened for payments-db after 4 failures
+2026-10-04T15:17:02.655Z WARN  [checkout-api] Retrying order 591296, attempt 10
+2026-10-04T15:17:05.382Z INFO  [inventory] Stock level for SKU-939 updated to 47
+2026-10-04T15:17:06.905Z INFO  [auth-service] User 4262 authenticated from 10.0.12.139
+2026-10-04T15:17:09.558Z INFO  [auth-service] User 7743 authenticated from 10.2.219.50
+2026-10-04T15:17:11.404Z FATAL [payment-worker] Circuit breaker opened for payments-db after 28 failures
+2026-10-04T15:17:13.210Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 529223
+2026-10-04T15:17:15.495Z FATAL [payment-worker] Circuit breaker opened for payments-db after 35 failures
+2026-10-04T15:17:17.383Z FATAL [payment-worker] Circuit breaker opened for payments-db after 40 failures
+2026-10-04T15:17:20.387Z FATAL [payment-worker] Circuit breaker opened for payments-db after 39 failures
+2026-10-04T15:17:23.034Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:17:24.595Z INFO  [checkout-api] Request completed POST /api/v1/orders in 1832ms
+2026-10-04T15:17:26.688Z WARN  [checkout-api] Slow query took 906ms: SELECT * FROM carts WHERE user_id = 7605
+2026-10-04T15:17:28.418Z INFO  [auth-service] User 4431 authenticated from 10.2.98.139
+2026-10-04T15:17:31.779Z INFO  [inventory] Stock level for SKU-211 updated to 2
+2026-10-04T15:17:33.732Z WARN  [checkout-api] Retrying order 583208, attempt 29
+2026-10-04T15:17:35.039Z FATAL [payment-worker] Circuit breaker opened for payments-db after 5 failures
+2026-10-04T15:17:38.120Z FATAL [payment-worker] Circuit breaker opened for payments-db after 18 failures
+2026-10-04T15:17:39.260Z WARN  [checkout-api] Retrying order 589951, attempt 45
+2026-10-04T15:17:42.817Z WARN  [checkout-api] Retrying order 598383, attempt 21
+2026-10-04T15:17:45.038Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 539851
+2026-10-04T15:17:46.312Z FATAL [payment-worker] Circuit breaker opened for payments-db after 25 failures
+2026-10-04T15:17:48.148Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:17:51.252Z INFO  [payment-worker] Charged order 545275 for $70.06
+2026-10-04T15:17:53.326Z INFO  [checkout-api] Request completed POST /api/v1/orders in 1982ms
+2026-10-04T15:17:55.063Z WARN  [checkout-api] Slow query took 3275ms: SELECT * FROM carts WHERE user_id = 7002
+2026-10-04T15:17:57.737Z INFO  [checkout-api] Request completed POST /api/v1/orders in 1556ms
+2026-10-04T15:18:00.001Z INFO  [checkout-api] Request completed POST /api/v1/orders in 1978ms
+2026-10-04T15:18:02.073Z ERROR [payment-worker] Failed to charge order 517794: upstream timeout after 2832ms
+2026-10-04T15:18:04.227Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:18:06.852Z INFO  [checkout-api] Request completed GET /api/v1/cart/25141 in 1603ms
+2026-10-04T15:18:08.230Z FATAL [payment-worker] Circuit breaker opened for payments-db after 34 failures
+2026-10-04T15:18:10.299Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:18:12.788Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:18:15.245Z INFO  [inventory] Stock level for SKU-847 updated to 26
+2026-10-04T15:18:17.432Z ERROR [payment-worker] Failed to charge order 521554: upstream timeout after 3106ms
+2026-10-04T15:18:19.444Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 539534
+2026-10-04T15:18:21.410Z FATAL [payment-worker] Circuit breaker opened for payments-db after 20 failures
+2026-10-04T15:18:23.659Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 565547
+2026-10-04T15:18:26.307Z WARN  [checkout-api] Retrying order 541866, attempt 32
+2026-10-04T15:18:28.488Z INFO  [checkout-api] Request completed POST /api/v1/orders in 1744ms
+2026-10-04T15:18:30.659Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 518727
+2026-10-04T15:18:32.134Z INFO  [auth-service] User 9028 authenticated from 10.2.192.236
+2026-10-04T15:18:35.492Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:18:37.439Z INFO  [checkout-api] Request completed GET /api/v1/cart/23171 in 2362ms
+2026-10-04T15:18:39.918Z ERROR [payment-worker] Failed to charge order 534884: upstream timeout after 3250ms
+2026-10-04T15:18:41.210Z WARN  [checkout-api] Slow query took 2984ms: SELECT * FROM carts WHERE user_id = 5657
+2026-10-04T15:18:44.318Z WARN  [checkout-api] Retrying order 518467, attempt 35
+2026-10-04T15:18:45.724Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 558974
+2026-10-04T15:18:48.664Z ERROR [payment-worker] Failed to charge order 559808: upstream timeout after 1787ms
+2026-10-04T15:18:49.901Z FATAL [payment-worker] Circuit breaker opened for payments-db after 15 failures
+2026-10-04T15:18:52.877Z ERROR [payment-worker] Failed to charge order 568273: upstream timeout after 2225ms
+2026-10-04T15:18:54.089Z WARN  [checkout-api] Retrying order 542938, attempt 26
+2026-10-04T15:18:56.389Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:18:59.780Z FATAL [payment-worker] Circuit breaker opened for payments-db after 45 failures
+2026-10-04T15:19:00.655Z ERROR [payment-worker] Failed to charge order 544080: upstream timeout after 3250ms
+2026-10-04T15:19:04.001Z ERROR [payment-worker] Failed to charge order 529176: upstream timeout after 2625ms
+2026-10-04T15:19:06.078Z FATAL [payment-worker] Circuit breaker opened for payments-db after 4 failures
+2026-10-04T15:19:07.757Z WARN  [checkout-api] Retrying order 542115, attempt 46
+2026-10-04T15:19:09.651Z INFO  [auth-service] User 9166 authenticated from 10.3.47.74
+2026-10-04T15:19:12.386Z FATAL [payment-worker] Circuit breaker opened for payments-db after 16 failures
+2026-10-04T15:19:14.274Z WARN  [checkout-api] Retrying order 589510, attempt 24
+2026-10-04T15:19:16.362Z FATAL [payment-worker] Circuit breaker opened for payments-db after 41 failures
+2026-10-04T15:19:19.146Z FATAL [payment-worker] Circuit breaker opened for payments-db after 4 failures
+2026-10-04T15:19:21.752Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 571740
+2026-10-04T15:19:22.865Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:19:25.046Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 560747
+2026-10-04T15:19:27.985Z WARN  [checkout-api] Retrying order 513785, attempt 12
+2026-10-04T15:19:30.295Z DEBUG [checkout-api] Cache hit for key cart:4540
+2026-10-04T15:19:32.824Z ERROR [payment-worker] Failed to charge order 586805: upstream timeout after 3891ms
+2026-10-04T15:19:34.430Z INFO  [auth-service] User 3626 authenticated from 10.1.151.124
+2026-10-04T15:19:36.221Z INFO  [auth-service] User 2740 authenticated from 10.0.48.125
+2026-10-04T15:19:38.108Z WARN  [checkout-api] Retrying order 561726, attempt 19
+2026-10-04T15:19:41.433Z WARN  [checkout-api] Retrying order 546077, attempt 33
+2026-10-04T15:19:43.712Z ERROR [payment-worker] Failed to charge order 520750: upstream timeout after 1891ms
+2026-10-04T15:19:45.015Z INFO  [payment-worker] Charged order 572745 for $40.65
+2026-10-04T15:19:47.801Z WARN  [checkout-api] Retrying order 589962, attempt 32
+2026-10-04T15:19:49.980Z INFO  [inventory] Stock level for SKU-206 updated to 7
+2026-10-04T15:19:51.744Z WARN  [checkout-api] Retrying order 506903, attempt 16
+2026-10-04T15:19:53.537Z WARN  [checkout-api] Slow query took 2493ms: SELECT * FROM carts WHERE user_id = 7967
+2026-10-04T15:19:55.653Z WARN  [checkout-api] Slow query took 3280ms: SELECT * FROM carts WHERE user_id = 2217
+2026-10-04T15:19:58.114Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 548471
+2026-10-04T15:20:01.367Z WARN  [checkout-api] Retrying order 563095, attempt 13
+2026-10-04T15:20:02.648Z INFO  [checkout-api] Request completed GET /api/v1/cart/16890 in 1152ms
+2026-10-04T15:20:05.638Z FATAL [payment-worker] Circuit breaker opened for payments-db after 26 failures
+2026-10-04T15:20:07.246Z ERROR [payment-worker] Failed to charge order 599013: upstream timeout after 3561ms
+2026-10-04T15:20:09.298Z INFO  [inventory] Stock level for SKU-298 updated to 47
+2026-10-04T15:20:11.527Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:20:13.817Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:20:15.698Z ERROR [checkout-api] Unhandled exception in POST /api/v1/orders: ConnectionPoolTimeout
+2026-10-04T15:20:17.993Z WARN  [checkout-api] Slow query took 2655ms: SELECT * FROM carts WHERE user_id = 9911
+2026-10-04T15:20:20.735Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 516853
+2026-10-04T15:20:23.380Z INFO  [inventory] Stock level for SKU-730 updated to 18
+2026-10-04T15:20:25.108Z FATAL [payment-worker] Circuit breaker opened for payments-db after 37 failures
+2026-10-04T15:20:27.256Z INFO  [inventory] Stock level for SKU-888 updated to 21
+2026-10-04T15:20:28.720Z WARN  [checkout-api] Retrying order 506366, attempt 9
+2026-10-04T15:20:30.886Z WARN  [checkout-api] Retrying order 551270, attempt 27
+2026-10-04T15:20:34.010Z FATAL [payment-worker] Circuit breaker opened for payments-db after 39 failures
+2026-10-04T15:20:35.316Z WARN  [checkout-api] Retrying order 521518, attempt 8
+2026-10-04T15:20:38.828Z WARN  [checkout-api] Retrying order 562380, attempt 26
+2026-10-04T15:20:40.751Z FATAL [payment-worker] Circuit breaker opened for payments-db after 28 failures
+2026-10-04T15:20:43.172Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 508170
+2026-10-04T15:20:44.784Z FATAL [payment-worker] Circuit breaker opened for payments-db after 40 failures
+2026-10-04T15:20:47.464Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 577325
+2026-10-04T15:20:49.496Z FATAL [payment-worker] Circuit breaker opened for payments-db after 46 failures
+2026-10-04T15:20:50.797Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 512103
+2026-10-04T15:20:54.053Z FATAL [payment-worker] Circuit breaker opened for payments-db after 16 failures
+2026-10-04T15:20:55.669Z FATAL [payment-worker] Circuit breaker opened for payments-db after 24 failures
+2026-10-04T15:20:58.442Z INFO  [inventory] Stock level for SKU-165 updated to 6
+2026-10-04T15:20:59.728Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 587046
+2026-10-04T15:21:01.967Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 572092
+2026-10-04T15:21:05.114Z ERROR [payment-worker] Failed to charge order 554644: upstream timeout after 1659ms
+2026-10-04T15:21:07.262Z ERROR [payment-worker] Connection refused to payments-db:5432 for order 509852
+2026-10-04T15:21:08.477Z INFO  [checkout-api] Request completed POST /api/v1/orders in 2182ms
+2026-10-04T15:21:10.667Z INFO  [checkout-api] Request completed GET /api/v1/cart/26243 in 1770ms
+2026-10-04T15:21:12.797Z INFO  [payment-worker] Charged order 587314 for $225.55
+2026-10-04T15:21:15.290Z ERROR [payment-worker] Failed to charge order 548353: upstream timeout after 3415ms
+2026-10-04T15:21:17.163Z INFO  [payment-worker] Charged order 529479 for $132.58
+2026-10-04T15:21:19.450Z INFO  [auth-service] User 1105 authenticated from 10.3.244.143
+2026-10-04T15:21:21.804Z INFO  [payment-worker] Charged order 581131 for $158.43
+2026-10-04T15:21:24.995Z INFO  [auth-service] User 2844 authenticated from 10.3.240.172
+2026-10-04T15:21:26.465Z INFO  [checkout-api] Request completed POST /api/v1/orders in 41ms
+2026-10-04T15:21:28.389Z INFO  [inventory] Stock level for SKU-786 updated to 26
+2026-10-04T15:21:31.106Z INFO  [payment-worker] Charged order 520744 for $356.74
+2026-10-04T15:21:33.405Z INFO  [payment-worker] Charged order 557261 for $93.54
+2026-10-04T15:21:34.749Z INFO  [auth-service] User 1536 authenticated from 10.2.210.223
+2026-10-04T15:21:37.583Z WARN  [checkout-api] Slow query took 96ms: SELECT * FROM carts WHERE user_id = 1175
+2026-10-04T15:21:40.194Z INFO  [checkout-api] Request completed POST /api/v1/orders in 172ms
+2026-10-04T15:21:42.208Z INFO  [auth-service] User 6327 authenticated from 10.3.90.35
+2026-10-04T15:21:43.461Z INFO  [checkout-api] Request completed GET /api/v1/cart/25284 in 123ms
+2026-10-04T15:21:46.694Z INFO  [payment-worker] Charged order 540625 for $278.98
+2026-10-04T15:21:49.202Z INFO  [inventory] Stock level for SKU-895 updated to 23
+2026-10-04T15:21:50.983Z INFO  [checkout-api] Request completed GET /api/v1/cart/23892 in 130ms
+2026-10-04T15:21:53.487Z INFO  [auth-service] User 4021 authenticated from 10.0.14.236
+2026-10-04T15:21:55.707Z INFO  [inventory] Stock level for SKU-115 updated to 39
+2026-10-04T15:21:56.996Z DEBUG [checkout-api] Cache hit for key cart:3018
+2026-10-04T15:21:58.901Z INFO  [inventory] Stock level for SKU-473 updated to 15
+2026-10-04T15:22:01.218Z INFO  [inventory] Stock level for SKU-596 updated to 15
+2026-10-04T15:22:03.801Z INFO  [checkout-api] Request completed POST /api/v1/orders in 169ms
+2026-10-04T15:22:06.268Z DEBUG [checkout-api] Cache hit for key cart:5340
+2026-10-04T15:22:08.570Z INFO  [inventory] Stock level for SKU-568 updated to 1
+2026-10-04T15:22:10.563Z INFO  [inventory] Stock level for SKU-602 updated to 19
+2026-10-04T15:22:12.690Z INFO  [checkout-api] Request completed POST /api/v1/orders in 103ms
+2026-10-04T15:22:14.972Z INFO  [checkout-api] Request completed GET /api/v1/cart/51941 in 44ms
+2026-10-04T15:22:17.693Z INFO  [payment-worker] Charged order 526295 for $139.12
+2026-10-04T15:22:19.308Z INFO  [checkout-api] Request completed POST /api/v1/orders in 176ms
+2026-10-04T15:22:22.005Z INFO  [checkout-api] Request completed POST /api/v1/orders in 75ms
+2026-10-04T15:22:23.155Z INFO  [inventory] Stock level for SKU-355 updated to 16
+2026-10-04T15:22:25.345Z INFO  [inventory] Stock level for SKU-168 updated to 11
+2026-10-04T15:22:28.372Z INFO  [checkout-api] Request completed GET /api/v1/cart/59973 in 167ms
+2026-10-04T15:22:29.700Z INFO  [checkout-api] Request completed GET /api/v1/cart/82101 in 40ms
+2026-10-04T15:22:32.825Z INFO  [checkout-api] Request completed POST /api/v1/orders in 17ms
+2026-10-04T15:22:34.317Z INFO  [checkout-api] Request completed GET /api/v1/cart/72185 in 171ms
+2026-10-04T15:22:37.152Z WARN  [checkout-api] Slow query took 125ms: SELECT * FROM carts WHERE user_id = 9026
+2026-10-04T15:22:38.482Z INFO  [inventory] Stock level for SKU-200 updated to 50
+2026-10-04T15:22:41.901Z DEBUG [checkout-api] Cache hit for key cart:9153
+2026-10-04T15:22:44.025Z INFO  [auth-service] User 3194 authenticated from 10.1.67.49
+2026-10-04T15:22:46.119Z INFO  [payment-worker] Charged order 507275 for $14.44
+2026-10-04T15:22:47.989Z INFO  [checkout-api] Request completed GET /api/v1/cart/46959 in 115ms
+2026-10-04T15:22:49.733Z INFO  [checkout-api] Request completed POST /api/v1/orders in 64ms
+2026-10-04T15:22:52.671Z INFO  [inventory] Stock level for SKU-291 updated to 8
+2026-10-04T15:22:55.229Z INFO  [payment-worker] Charged order 514479 for $87.76
+2026-10-04T15:22:56.098Z INFO  [payment-worker] Charged order 577255 for $235.57
+2026-10-04T15:22:58.791Z INFO  [checkout-api] Request completed POST /api/v1/orders in 139ms
+2026-10-04T15:23:01.178Z DEBUG [checkout-api] Cache hit for key cart:7453
+2026-10-04T15:23:03.696Z INFO  [inventory] Stock level for SKU-680 updated to 13
+2026-10-04T15:23:06.188Z INFO  [auth-service] User 1341 authenticated from 10.0.50.244
+2026-10-04T15:23:08.358Z DEBUG [checkout-api] Cache hit for key cart:4091
+2026-10-04T15:23:10.090Z WARN  [checkout-api] Slow query took 53ms: SELECT * FROM carts WHERE user_id = 6715
+2026-10-04T15:23:12.766Z DEBUG [checkout-api] Cache hit for key cart:4839
+2026-10-04T15:23:14.411Z DEBUG [checkout-api] Cache hit for key cart:9070
+2026-10-04T15:23:16.403Z INFO  [auth-service] User 9886 authenticated from 10.1.182.108
+2026-10-04T15:23:18.543Z INFO  [inventory] Stock level for SKU-570 updated to 43
+2026-10-04T15:23:20.328Z INFO  [checkout-api] Request completed POST /api/v1/orders in 42ms
+2026-10-04T15:23:22.769Z INFO  [auth-service] User 2717 authenticated from 10.3.215.86
+2026-10-04T15:23:25.326Z INFO  [checkout-api] Request completed POST /api/v1/orders in 54ms
+2026-10-04T15:23:27.156Z INFO  [checkout-api] Request completed GET /api/v1/cart/99099 in 133ms
+2026-10-04T15:23:29.541Z INFO  [payment-worker] Charged order 562549 for $159.91
+2026-10-04T15:23:32.349Z INFO  [inventory] Stock level for SKU-434 updated to 7
+2026-10-04T15:23:33.715Z INFO  [payment-worker] Charged order 515981 for $191.30
+2026-10-04T15:23:36.828Z INFO  [payment-worker] Charged order 598846 for $341.09
+2026-10-04T15:23:39.210Z INFO  [checkout-api] Request completed POST /api/v1/orders in 56ms
+2026-10-04T15:23:40.111Z DEBUG [checkout-api] Cache hit for key cart:3906
+2026-10-04T15:23:43.550Z DEBUG [checkout-api] Cache hit for key cart:2695
+2026-10-04T15:23:45.432Z INFO  [payment-worker] Charged order 510329 for $241.63
+2026-10-04T15:23:47.298Z INFO  [checkout-api] Request completed GET /api/v1/cart/83276 in 36ms
+2026-10-04T15:23:49.985Z DEBUG [checkout-api] Cache hit for key cart:8079
+2026-10-04T15:23:52.037Z INFO  [checkout-api] Request completed POST /api/v1/orders in 10ms
+2026-10-04T15:23:53.690Z INFO  [inventory] Stock level for SKU-254 updated to 34
+2026-10-04T15:23:56.169Z INFO  [checkout-api] Request completed GET /api/v1/cart/17880 in 169ms
+2026-10-04T15:23:58.417Z INFO  [payment-worker] Charged order 504740 for $208.84
+2026-10-04T15:24:00.401Z INFO  [payment-worker] Charged order 556710 for $56.85
+2026-10-04T15:24:02.488Z DEBUG [checkout-api] Cache hit for key cart:9581
+2026-10-04T15:24:05.445Z INFO  [payment-worker] Charged order 521423 for $225.25
+2026-10-04T15:24:07.615Z INFO  [auth-service] User 7431 authenticated from 10.3.79.88
+2026-10-04T15:24:09.218Z INFO  [checkout-api] Request completed GET /api/v1/cart/45005 in 106ms
+2026-10-04T15:24:11.804Z WARN  [checkout-api] Slow query took 52ms: SELECT * FROM carts WHERE user_id = 4732
+2026-10-04T15:24:13.238Z INFO  [auth-service] User 2370 authenticated from 10.3.247.138
+2026-10-04T15:24:16.141Z INFO  [checkout-api] Request completed GET /api/v1/cart/40142 in 133ms
+2026-10-04T15:24:17.596Z DEBUG [checkout-api] Cache hit for key cart:6427
+2026-10-04T15:24:20.052Z INFO  [payment-worker] Charged order 529481 for $164.50
+2026-10-04T15:24:23.017Z INFO  [payment-worker] Charged order 557143 for $136.38
+2026-10-04T15:24:24.645Z INFO  [auth-service] User 7889 authenticated from 10.1.241.157
+2026-10-04T15:24:27.524Z INFO  [checkout-api] Request completed POST /api/v1/orders in 25ms
+2026-10-04T15:24:28.445Z WARN  [checkout-api] Slow query took 166ms: SELECT * FROM carts WHERE user_id = 5840
+2026-10-04T15:24:32.036Z DEBUG [checkout-api] Cache hit for key cart:8708
+2026-10-04T15:24:33.209Z WARN  [checkout-api] Slow query took 103ms: SELECT * FROM carts WHERE user_id = 3318
+2026-10-04T15:24:35.041Z INFO  [checkout-api] Request completed GET /api/v1/cart/50299 in 125ms
+2026-10-04T15:24:37.924Z INFO  [checkout-api] Request completed GET /api/v1/cart/30381 in 153ms
+2026-10-04T15:24:40.471Z WARN  [checkout-api] Slow query took 93ms: SELECT * FROM carts WHERE user_id = 4447
+2026-10-04T15:24:42.175Z INFO  [auth-service] User 1553 authenticated from 10.2.32.238
+2026-10-04T15:24:44.407Z INFO  [checkout-api] Request completed GET /api/v1/cart/68802 in 115ms
+2026-10-04T15:24:47.406Z INFO  [inventory] Stock level for SKU-281 updated to 16
+2026-10-04T15:24:49.321Z DEBUG [checkout-api] Cache hit for key cart:6353
+2026-10-04T15:24:50.833Z INFO  [checkout-api] Request completed GET /api/v1/cart/50644 in 13ms
+2026-10-04T15:24:53.266Z INFO  [inventory] Stock level for SKU-309 updated to 43
+2026-10-04T15:24:54.926Z INFO  [checkout-api] Request completed GET /api/v1/cart/83329 in 138ms
+2026-10-04T15:24:57.215Z INFO  [payment-worker] Charged order 546822 for $298.31
+2026-10-04T15:24:59.308Z INFO  [checkout-api] Request completed GET /api/v1/cart/52614 in 75ms
+2026-10-04T15:25:02.417Z DEBUG [checkout-api] Cache hit for key cart:7943
+2026-10-04T15:25:04.476Z INFO  [checkout-api] Request completed GET /api/v1/cart/91719 in 48ms
+2026-10-04T15:25:05.893Z INFO  [checkout-api] Request completed GET /api/v1/cart/49732 in 76ms
+2026-10-04T15:25:08.536Z WARN  [checkout-api] Slow query took 46ms: SELECT * FROM carts WHERE user_id = 5771
+2026-10-04T15:25:10.689Z INFO  [auth-service] User 3553 authenticated from 10.0.82.104
+2026-10-04T15:25:13.670Z INFO  [checkout-api] Request completed GET /api/v1/cart/93550 in 124ms
+2026-10-04T15:25:15.390Z INFO  [auth-service] User 8096 authenticated from 10.3.107.22
+2026-10-04T15:25:17.750Z INFO  [checkout-api] Request completed POST /api/v1/orders in 36ms
+2026-10-04T15:25:20.222Z DEBUG [checkout-api] Cache hit for key cart:5965
+2026-10-04T15:25:22.116Z DEBUG [checkout-api] Cache hit for key cart:9646
+2026-10-04T15:25:24.329Z DEBUG [checkout-api] Cache hit for key cart:9127
+2026-10-04T15:25:26.332Z INFO  [auth-service] User 2197 authenticated from 10.0.50.247
+2026-10-04T15:25:28.417Z INFO  [checkout-api] Request completed GET /api/v1/cart/90033 in 90ms
+2026-10-04T15:25:30.668Z INFO  [checkout-api] Request completed GET /api/v1/cart/81238 in 179ms
+2026-10-04T15:25:33.083Z INFO  [checkout-api] Request completed GET /api/v1/cart/38087 in 167ms
+2026-10-04T15:25:35.500Z INFO  [checkout-api] Request completed GET /api/v1/cart/27863 in 52ms
+2026-10-04T15:25:37.698Z INFO  [auth-service] User 1076 authenticated from 10.1.205.244
+2026-10-04T15:25:39.002Z INFO  [payment-worker] Charged order 599164 for $287.26
+2026-10-04T15:25:42.050Z INFO  [checkout-api] Request completed GET /api/v1/cart/53344 in 119ms
+2026-10-04T15:25:43.527Z INFO  [checkout-api] Request completed POST /api/v1/orders in 87ms
+2026-10-04T15:25:45.952Z INFO  [auth-service] User 9247 authenticated from 10.2.24.162
+2026-10-04T15:25:48.474Z INFO  [auth-service] User 2935 authenticated from 10.2.144.242
+2026-10-04T15:25:50.809Z WARN  [checkout-api] Slow query took 175ms: SELECT * FROM carts WHERE user_id = 1380
+2026-10-04T15:25:53.217Z INFO  [auth-service] User 4466 authenticated from 10.3.10.47
+2026-10-04T15:25:55.490Z INFO  [auth-service] User 5914 authenticated from 10.0.79.161
+2026-10-04T15:25:57.570Z INFO  [auth-service] User 2496 authenticated from 10.2.142.105
+2026-10-04T15:25:59.066Z INFO  [inventory] Stock level for SKU-535 updated to 8
+2026-10-04T15:26:01.052Z INFO  [auth-service] User 1209 authenticated from 10.3.39.115
+2026-10-04T15:26:04.282Z INFO  [payment-worker] Charged order 514614 for $76.93
+2026-10-04T15:26:06.248Z INFO  [inventory] Stock level for SKU-232 updated to 24
+2026-10-04T15:26:07.549Z WARN  [checkout-api] Slow query took 44ms: SELECT * FROM carts WHERE user_id = 8772
+2026-10-04T15:26:09.848Z INFO  [payment-worker] Charged order 562496 for $171.89
+2026-10-04T15:26:12.793Z INFO  [inventory] Stock level for SKU-734 updated to 50
+2026-10-04T15:26:14.678Z INFO  [auth-service] User 9076 authenticated from 10.0.216.21
+2026-10-04T15:26:16.440Z INFO  [auth-service] User 9536 authenticated from 10.1.164.185
+2026-10-04T15:26:19.423Z DEBUG [checkout-api] Cache hit for key cart:1889
+2026-10-04T15:26:20.807Z INFO  [auth-service] User 7844 authenticated from 10.2.170.178
+2026-10-04T15:26:23.085Z INFO  [auth-service] User 7025 authenticated from 10.3.62.136
+2026-10-04T15:26:25.630Z INFO  [payment-worker] Charged order 596162 for $292.42
+2026-10-04T15:26:28.271Z INFO  [inventory] Stock level for SKU-924 updated to 27
+2026-10-04T15:26:29.625Z INFO  [checkout-api] Request completed POST /api/v1/orders in 116ms
+2026-10-04T15:26:32.813Z DEBUG [checkout-api] Cache hit for key cart:9942
+2026-10-04T15:26:34.031Z INFO  [payment-worker] Charged order 574144 for $405.96
+2026-10-04T15:26:37.424Z INFO  [inventory] Stock level for SKU-707 updated to 1
+2026-10-04T15:26:38.811Z DEBUG [checkout-api] Cache hit for key cart:8285
+2026-10-04T15:26:41.759Z INFO  [checkout-api] Request completed POST /api/v1/orders in 24ms
+2026-10-04T15:26:44.017Z INFO  [checkout-api] Request completed POST /api/v1/orders in 155ms
+2026-10-04T15:26:45.094Z WARN  [checkout-api] Slow query took 120ms: SELECT * FROM carts WHERE user_id = 9253
+2026-10-04T15:26:47.289Z INFO  [payment-worker] Charged order 515649 for $84.14
+2026-10-04T15:26:49.333Z INFO  [checkout-api] Request completed POST /api/v1/orders in 149ms
+2026-10-04T15:26:52.567Z INFO  [auth-service] User 6724 authenticated from 10.3.237.83
+2026-10-04T15:26:54.920Z INFO  [checkout-api] Request completed POST /api/v1/orders in 95ms
+2026-10-04T15:26:55.940Z DEBUG [checkout-api] Cache hit for key cart:5409
+2026-10-04T15:26:59.173Z INFO  [auth-service] User 9012 authenticated from 10.3.227.220
+2026-10-04T15:27:00.808Z INFO  [auth-service] User 1040 authenticated from 10.2.205.146
+2026-10-04T15:27:02.651Z INFO  [payment-worker] Charged order 522446 for $190.31
+2026-10-04T15:27:05.708Z INFO  [checkout-api] Request completed GET /api/v1/cart/65475 in 35ms
+2026-10-04T15:27:06.985Z INFO  [checkout-api] Request completed GET /api/v1/cart/91821 in 73ms
+2026-10-04T15:27:09.713Z INFO  [checkout-api] Request completed GET /api/v1/cart/37431 in 99ms
+2026-10-04T15:27:12.399Z INFO  [checkout-api] Request completed POST /api/v1/orders in 36ms
+2026-10-04T15:27:14.215Z DEBUG [checkout-api] Cache hit for key cart:4845
+2026-10-04T15:27:16.155Z WARN  [checkout-api] Slow query took 53ms: SELECT * FROM carts WHERE user_id = 8032
+2026-10-04T15:27:18.370Z INFO  [checkout-api] Request completed POST /api/v1/orders in 30ms
+2026-10-04T15:27:20.937Z WARN  [checkout-api] Slow query took 85ms: SELECT * FROM carts WHERE user_id = 8113
+2026-10-04T15:27:23.417Z WARN  [checkout-api] Slow query took 106ms: SELECT * FROM carts WHERE user_id = 6381
+2026-10-04T15:27:24.505Z INFO  [checkout-api] Request completed POST /api/v1/orders in 160ms
+2026-10-04T15:27:27.492Z INFO  [auth-service] User 7616 authenticated from 10.3.1.30
+2026-10-04T15:27:29.497Z DEBUG [checkout-api] Cache hit for key cart:2689
+2026-10-04T15:27:31.703Z INFO  [payment-worker] Charged order 538782 for $314.62
+2026-10-04T15:27:33.567Z INFO  [inventory] Stock level for SKU-125 updated to 43
+2026-10-04T15:27:36.262Z INFO  [inventory] Stock level for SKU-460 updated to 21
+2026-10-04T15:27:38.335Z DEBUG [checkout-api] Cache hit for key cart:2367
+2026-10-04T15:27:40.024Z INFO  [payment-worker] Charged order 592279 for $83.44
+2026-10-04T15:27:42.775Z WARN  [checkout-api] Slow query took 36ms: SELECT * FROM carts WHERE user_id = 9257
+2026-10-04T15:27:44.475Z INFO  [checkout-api] Request completed GET /api/v1/cart/39942 in 112ms
+2026-10-04T15:27:46.906Z INFO  [checkout-api] Request completed POST /api/v1/orders in 75ms
+2026-10-04T15:27:49.614Z INFO  [inventory] Stock level for SKU-243 updated to 46
+2026-10-04T15:27:51.215Z DEBUG [checkout-api] Cache hit for key cart:9315
+2026-10-04T15:27:54.093Z WARN  [checkout-api] Slow query took 36ms: SELECT * FROM carts WHERE user_id = 8456
+2026-10-04T15:27:56.496Z INFO  [payment-worker] Charged order 550782 for $395.85
+2026-10-04T15:27:58.049Z INFO  [checkout-api] Request completed POST /api/v1/orders in 80ms
+2026-10-04T15:28:01.001Z INFO  [auth-service] User 3606 authenticated from 10.3.13.171
+2026-10-04T15:28:03.224Z WARN  [checkout-api] Slow query took 146ms: SELECT * FROM carts WHERE user_id = 7580
+2026-10-04T15:28:05.336Z INFO  [payment-worker] Charged order 520321 for $342.72
+2026-10-04T15:28:06.862Z INFO  [checkout-api] Request completed POST /api/v1/orders in 122ms
+2026-10-04T15:28:09.031Z INFO  [inventory] Stock level for SKU-824 updated to 1
+2026-10-04T15:28:11.283Z DEBUG [checkout-api] Cache hit for key cart:4262
+2026-10-04T15:28:13.865Z DEBUG [checkout-api] Cache hit for key cart:6186
+2026-10-04T15:28:15.345Z WARN  [checkout-api] Slow query took 14ms: SELECT * FROM carts WHERE user_id = 6947
+2026-10-04T15:28:18.160Z INFO  [payment-worker] Charged order 593550 for $368.05
+2026-10-04T15:28:20.182Z INFO  [inventory] Stock level for SKU-618 updated to 12
+2026-10-04T15:28:22.216Z INFO  [checkout-api] Request completed POST /api/v1/orders in 170ms
+2026-10-04T15:28:24.666Z INFO  [checkout-api] Request completed POST /api/v1/orders in 163ms
+2026-10-04T15:28:26.808Z INFO  [payment-worker] Charged order 549607 for $51.71
+2026-10-04T15:28:29.018Z WARN  [checkout-api] Slow query took 90ms: SELECT * FROM carts WHERE user_id = 8112
+2026-10-04T15:28:30.694Z DEBUG [checkout-api] Cache hit for key cart:4887
+2026-10-04T15:28:33.003Z DEBUG [checkout-api] Cache hit for key cart:3336
+2026-10-04T15:28:35.359Z INFO  [payment-worker] Charged order 554636 for $384.95
+2026-10-04T15:28:37.114Z INFO  [checkout-api] Request completed POST /api/v1/orders in 174ms
+2026-10-04T15:28:39.825Z INFO  [checkout-api] Request completed POST /api/v1/orders in 51ms
+2026-10-04T15:28:41.889Z DEBUG [checkout-api] Cache hit for key cart:1702
+2026-10-04T15:28:44.545Z INFO  [checkout-api] Request completed GET /api/v1/cart/30198 in 96ms
+2026-10-04T15:28:46.101Z WARN  [checkout-api] Slow query took 119ms: SELECT * FROM carts WHERE user_id = 7911
+2026-10-04T15:28:48.440Z INFO  [checkout-api] Request completed GET /api/v1/cart/93224 in 43ms
+2026-10-04T15:28:51.260Z INFO  [checkout-api] Request completed GET /api/v1/cart/37750 in 114ms
+2026-10-04T15:28:53.126Z WARN  [checkout-api] Slow query took 34ms: SELECT * FROM carts WHERE user_id = 2365
+2026-10-04T15:28:55.133Z INFO  [payment-worker] Charged order 579289 for $47.70
+2026-10-04T15:28:58.221Z DEBUG [checkout-api] Cache hit for key cart:9950
+2026-10-04T15:28:59.203Z INFO  [inventory] Stock level for SKU-212 updated to 46
+2026-10-04T15:29:02.539Z DEBUG [checkout-api] Cache hit for key cart:6720
+2026-10-04T15:29:04.574Z INFO  [payment-worker] Charged order 541593 for $223.10
+2026-10-04T15:29:06.878Z DEBUG [checkout-api] Cache hit for key cart:3433
+2026-10-04T15:29:07.905Z INFO  [payment-worker] Charged order 575946 for $293.44
+2026-10-04T15:29:10.439Z DEBUG [checkout-api] Cache hit for key cart:5924
+2026-10-04T15:29:13.134Z INFO  [checkout-api] Request completed GET /api/v1/cart/88048 in 143ms
+2026-10-04T15:29:14.563Z INFO  [checkout-api] Request completed POST /api/v1/orders in 117ms
+2026-10-04T15:29:17.916Z WARN  [checkout-api] Slow query took 142ms: SELECT * FROM carts WHERE user_id = 7129
+2026-10-04T15:29:19.921Z INFO  [checkout-api] Request completed POST /api/v1/orders in 125ms
+2026-10-04T15:29:22.266Z INFO  [auth-service] User 8097 authenticated from 10.2.163.1
+2026-10-04T15:29:24.583Z INFO  [checkout-api] Request completed GET /api/v1/cart/46724 in 156ms
+2026-10-04T15:29:25.591Z INFO  [checkout-api] Request completed POST /api/v1/orders in 75ms
+2026-10-04T15:29:28.401Z INFO  [inventory] Stock level for SKU-733 updated to 1
+2026-10-04T15:29:30.597Z INFO  [checkout-api] Request completed POST /api/v1/orders in 125ms
+2026-10-04T15:29:33.142Z INFO  [checkout-api] Request completed POST /api/v1/orders in 65ms
+2026-10-04T15:29:34.375Z INFO  [payment-worker] Charged order 519100 for $408.64
+2026-10-04T15:29:36.915Z WARN  [checkout-api] Slow query took 100ms: SELECT * FROM carts WHERE user_id = 7992
+2026-10-04T15:29:39.364Z INFO  [checkout-api] Request completed GET /api/v1/cart/82527 in 18ms
+2026-10-04T15:29:41.924Z DEBUG [checkout-api] Cache hit for key cart:7561
+2026-10-04T15:29:43.532Z INFO  [checkout-api] Request completed POST /api/v1/orders in 41ms
+2026-10-04T15:29:46.533Z INFO  [checkout-api] Request completed POST /api/v1/orders in 123ms
+2026-10-04T15:29:48.527Z INFO  [checkout-api] Request completed POST /api/v1/orders in 102ms
+2026-10-04T15:29:50.944Z INFO  [checkout-api] Request completed GET /api/v1/cart/63816 in 85ms
+2026-10-04T15:29:52.142Z INFO  [checkout-api] Request completed GET /api/v1/cart/79241 in 76ms
+2026-10-04T15:29:54.620Z INFO  [payment-worker] Charged order 565888 for $252.03
+2026-10-04T15:29:56.640Z INFO  [checkout-api] Request completed GET /api/v1/cart/64189 in 158ms
+2026-10-04T15:29:59.332Z INFO  [payment-worker] Charged order 586980 for $335.94
+2026-10-04T15:30:01.144Z WARN  [checkout-api] Slow query took 149ms: SELECT * FROM carts WHERE user_id = 5985
+2026-10-04T15:30:03.018Z INFO  [inventory] Stock level for SKU-274 updated to 31
+2026-10-04T15:30:05.094Z INFO  [payment-worker] Charged order 566465 for $241.25
+2026-10-04T15:30:08.040Z WARN  [checkout-api] Slow query took 94ms: SELECT * FROM carts WHERE user_id = 3160
+2026-10-04T15:30:10.520Z DEBUG [checkout-api] Cache hit for key cart:7384
+2026-10-04T15:30:11.961Z DEBUG [checkout-api] Cache hit for key cart:8884
+2026-10-04T15:30:13.885Z INFO  [payment-worker] Charged order 530748 for $248.12
+2026-10-04T15:30:16.345Z INFO  [checkout-api] Request completed GET /api/v1/cart/30868 in 93ms
+2026-10-04T15:30:19.250Z INFO  [inventory] Stock level for SKU-547 updated to 33
+2026-10-04T15:30:21.712Z DEBUG [checkout-api] Cache hit for key cart:9206
+2026-10-04T15:30:23.144Z WARN  [checkout-api] Slow query took 63ms: SELECT * FROM carts WHERE user_id = 5193
+2026-10-04T15:30:25.546Z WARN  [checkout-api] Slow query took 120ms: SELECT * FROM carts WHERE user_id = 9103
+2026-10-04T15:30:27.476Z INFO  [checkout-api] Request completed POST /api/v1/orders in 117ms
+2026-10-04T15:30:29.560Z DEBUG [checkout-api] Cache hit for key cart:9332
+2026-10-04T15:30:32.240Z INFO  [payment-worker] Charged order 539487 for $187.74
+2026-10-04T15:30:34.799Z WARN  [checkout-api] Slow query took 66ms: SELECT * FROM carts WHERE user_id = 1653
+2026-10-04T15:30:37.112Z WARN  [checkout-api] Slow query took 94ms: SELECT * FROM carts WHERE user_id = 4953
+2026-10-04T15:30:38.459Z WARN  [checkout-api] Slow query took 144ms: SELECT * FROM carts WHERE user_id = 2900
+2026-10-04T15:30:41.068Z INFO  [payment-worker] Charged order 569501 for $216.48
+2026-10-04T15:30:43.524Z INFO  [checkout-api] Request completed POST /api/v1/orders in 79ms
+2026-10-04T15:30:44.715Z DEBUG [checkout-api] Cache hit for key cart:2551
+2026-10-04T15:30:47.603Z INFO  [inventory] Stock level for SKU-765 updated to 27
+2026-10-04T15:30:49.254Z INFO  [checkout-api] Request completed POST /api/v1/orders in 175ms
+2026-10-04T15:30:51.779Z INFO  [checkout-api] Request completed POST /api/v1/orders in 61ms
+2026-10-04T15:30:53.794Z DEBUG [checkout-api] Cache hit for key cart:7607
+2026-10-04T15:30:56.288Z INFO  [checkout-api] Request completed POST /api/v1/orders in 138ms
+2026-10-04T15:30:58.773Z INFO  [inventory] Stock level for SKU-450 updated to 41
+2026-10-04T15:31:00.235Z DEBUG [checkout-api] Cache hit for key cart:7949
+2026-10-04T15:31:02.807Z DEBUG [checkout-api] Cache hit for key cart:8710
+2026-10-04T15:31:05.161Z DEBUG [checkout-api] Cache hit for key cart:7907
+2026-10-04T15:31:07.176Z DEBUG [checkout-api] Cache hit for key cart:5019
+2026-10-04T15:31:09.631Z DEBUG [checkout-api] Cache hit for key cart:9796
+2026-10-04T15:31:11.195Z INFO  [inventory] Stock level for SKU-988 updated to 20
+2026-10-04T15:31:13.963Z DEBUG [checkout-api] Cache hit for key cart:3270
+2026-10-04T15:31:15.957Z INFO  [auth-service] User 5982 authenticated from 10.2.194.162
+2026-10-04T15:31:17.860Z INFO  [payment-worker] Charged order 549482 for $271.57
+2026-10-04T15:31:20.787Z INFO  [inventory] Stock level for SKU-917 updated to 10
+2026-10-04T15:31:22.164Z DEBUG [checkout-api] Cache hit for key cart:2176
+2026-10-04T15:31:24.810Z WARN  [checkout-api] Slow query took 67ms: SELECT * FROM carts WHERE user_id = 5522
+2026-10-04T15:31:26.980Z WARN  [checkout-api] Slow query took 15ms: SELECT * FROM carts WHERE user_id = 2062
+2026-10-04T15:31:29.040Z INFO  [checkout-api] Request completed POST /api/v1/orders in 70ms
+2026-10-04T15:31:31.306Z INFO  [payment-worker] Charged order 534209 for $86.51
+2026-10-04T15:31:33.411Z WARN  [checkout-api] Slow query took 39ms: SELECT * FROM carts WHERE user_id = 3007
+2026-10-04T15:31:36.603Z INFO  [checkout-api] Request completed GET /api/v1/cart/77688 in 107ms
+2026-10-04T15:31:37.779Z WARN  [checkout-api] Slow query took 33ms: SELECT * FROM carts WHERE user_id = 2411
+2026-10-04T15:31:40.475Z WARN  [checkout-api] Slow query took 95ms: SELECT * FROM carts WHERE user_id = 8105
+2026-10-04T15:31:42.869Z WARN  [checkout-api] Slow query took 52ms: SELECT * FROM carts WHERE user_id = 7704
+2026-10-04T15:31:44.415Z INFO  [checkout-api] Request completed POST /api/v1/orders in 39ms
+2026-10-04T15:31:47.018Z WARN  [checkout-api] Slow query took 67ms: SELECT * FROM carts WHERE user_id = 5409
+2026-10-04T15:31:49.097Z INFO  [checkout-api] Request completed POST /api/v1/orders in 73ms
+2026-10-04T15:31:50.865Z WARN  [checkout-api] Slow query took 82ms: SELECT * FROM carts WHERE user_id = 3116
+2026-10-04T15:31:53.040Z INFO  [inventory] Stock level for SKU-319 updated to 17
+2026-10-04T15:31:55.782Z WARN  [checkout-api] Slow query took 32ms: SELECT * FROM carts WHERE user_id = 5125
+2026-10-04T15:31:58.140Z INFO  [checkout-api] Request completed POST /api/v1/orders in 157ms
+2026-10-04T15:31:59.545Z INFO  [checkout-api] Request completed GET /api/v1/cart/45845 in 41ms
+2026-10-04T15:32:02.389Z DEBUG [checkout-api] Cache hit for key cart:8626
+2026-10-04T15:32:05.005Z INFO  [payment-worker] Charged order 554391 for $210.37
+2026-10-04T15:32:06.349Z INFO  [checkout-api] Request completed GET /api/v1/cart/42301 in 119ms
+2026-10-04T15:32:08.749Z DEBUG [checkout-api] Cache hit for key cart:8836
+2026-10-04T15:32:10.583Z INFO  [payment-worker] Charged order 546553 for $246.03
+2026-10-04T15:32:12.646Z DEBUG [checkout-api] Cache hit for key cart:3116
+2026-10-04T15:32:15.417Z INFO  [auth-service] User 2974 authenticated from 10.1.74.56
+2026-10-04T15:32:17.857Z INFO  [auth-service] User 2275 authenticated from 10.0.72.228
+2026-10-04T15:32:19.972Z WARN  [checkout-api] Slow query took 31ms: SELECT * FROM carts WHERE user_id = 1895
+2026-10-04T15:32:22.513Z WARN  [checkout-api] Slow query took 36ms: SELECT * FROM carts WHERE user_id = 9114
+2026-10-04T15:32:24.848Z INFO  [inventory] Stock level for SKU-886 updated to 42
+2026-10-04T15:32:27.214Z INFO  [checkout-api] Request completed POST /api/v1/orders in 50ms
+2026-10-04T15:32:29.085Z WARN  [checkout-api] Slow query took 18ms: SELECT * FROM carts WHERE user_id = 1392
+2026-10-04T15:32:31.299Z INFO  [checkout-api] Request completed POST /api/v1/orders in 59ms
+2026-10-04T15:32:33.022Z INFO  [checkout-api] Request completed POST /api/v1/orders in 159ms
+2026-10-04T15:32:36.026Z INFO  [inventory] Stock level for SKU-833 updated to 1
+2026-10-04T15:32:37.683Z INFO  [payment-worker] Charged order 551288 for $215.57
+2026-10-04T15:32:39.267Z DEBUG [checkout-api] Cache hit for key cart:3344
+2026-10-04T15:32:41.324Z WARN  [checkout-api] Slow query took 57ms: SELECT * FROM carts WHERE user_id = 9494
+2026-10-04T15:32:43.776Z INFO  [inventory] Stock level for SKU-695 updated to 18
+2026-10-04T15:32:45.969Z DEBUG [checkout-api] Cache hit for key cart:5219
+2026-10-04T15:32:48.764Z INFO  [payment-worker] Charged order 524206 for $38.55
+2026-10-04T15:32:50.124Z INFO  [checkout-api] Request completed POST /api/v1/orders in 20ms
+2026-10-04T15:32:53.271Z WARN  [checkout-api] Slow query took 162ms: SELECT * FROM carts WHERE user_id = 6956
+2026-10-04T15:32:54.885Z INFO  [auth-service] User 6585 authenticated from 10.2.237.8
+2026-10-04T15:32:57.710Z INFO  [checkout-api] Request completed POST /api/v1/orders in 33ms
+2026-10-04T15:32:59.841Z DEBUG [checkout-api] Cache hit for key cart:4174
+2026-10-04T15:33:01.120Z INFO  [payment-worker] Charged order 509408 for $147.18
+2026-10-04T15:33:03.599Z WARN  [checkout-api] Slow query took 80ms: SELECT * FROM carts WHERE user_id = 7915
+2026-10-04T15:33:06.274Z INFO  [payment-worker] Charged order 578761 for $383.99
+2026-10-04T15:33:07.938Z DEBUG [checkout-api] Cache hit for key cart:4632
+2026-10-04T15:33:10.793Z INFO  [inventory] Stock level for SKU-213 updated to 36
+2026-10-04T15:33:12.589Z INFO  [auth-service] User 6031 authenticated from 10.2.143.50
+2026-10-04T15:33:14.627Z INFO  [inventory] Stock level for SKU-984 updated to 41
+2026-10-04T15:33:16.544Z INFO  [checkout-api] Request completed GET /api/v1/cart/15026 in 60ms
+2026-10-04T15:33:18.851Z INFO  [checkout-api] Request completed GET /api/v1/cart/42250 in 17ms
+2026-10-04T15:33:21.210Z INFO  [checkout-api] Request completed GET /api/v1/cart/64914 in 54ms
+2026-10-04T15:33:24.304Z INFO  [payment-worker] Charged order 517201 for $190.26
+2026-10-04T15:33:25.375Z DEBUG [checkout-api] Cache hit for key cart:7255
+2026-10-04T15:33:28.009Z WARN  [checkout-api] Slow query took 131ms: SELECT * FROM carts WHERE user_id = 7946
+2026-10-04T15:33:30.723Z INFO  [auth-service] User 5962 authenticated from 10.0.58.245
+2026-10-04T15:33:32.695Z INFO  [checkout-api] Request completed POST /api/v1/orders in 136ms
+2026-10-04T15:33:34.396Z DEBUG [checkout-api] Cache hit for key cart:1371
+2026-10-04T15:33:36.385Z INFO  [inventory] Stock level for SKU-888 updated to 14
+2026-10-04T15:33:39.444Z INFO  [auth-service] User 9764 authenticated from 10.2.145.156

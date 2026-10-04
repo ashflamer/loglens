@@ -1,0 +1,6 @@
+{"timestamp":"2026-01-14T09:12:03.120Z","level":"info","logger":"api","message":"Request completed","path":"/v1/users","status":200,"duration_ms":31}
+{"timestamp":"2026-01-14T09:12:03.902Z","level":"debug","logger":"cache","message":"Cache hit for key users:4821"}
+{"timestamp":"2026-01-14T09:12:04.551Z","level":"warn","logger":"db","message":"Slow query took 1840ms","query":"SELECT * FROM users"}
+{"timestamp":"2026-01-14T09:12:05.004Z","level":"error","logger":"payments","message":"Charge failed for order 500812","error":"upstream timeout"}
+{"timestamp":"2026-01-14T09:12:05.310Z","level":"error","logger":"payments","message":"Charge failed for order 500813","error":"upstream timeout"}
+{"timestamp":"2026-01-14T09:12:06.001Z","level":"fatal","logger":"payments","message":"Circuit breaker opened after 12 failures"}

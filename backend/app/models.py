@@ -21,7 +21,7 @@ class Level(str, Enum):
         return _SEVERITY[self]
 
     @classmethod
-    def parse(cls, raw: str | None) -> "Level":
+    def parse(cls, raw: str | None) -> Level:
         if not raw:
             return cls.UNKNOWN
         return _ALIASES.get(raw.strip().upper(), cls.UNKNOWN)

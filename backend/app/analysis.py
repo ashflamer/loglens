@@ -6,10 +6,16 @@ import math
 import re
 import statistics
 from collections import Counter, defaultdict
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 
 from app.models import (
-    AnalysisResult, Anomaly, Bucket, Level, LogEntry, Pattern, Summary,
+    AnalysisResult,
+    Anomaly,
+    Bucket,
+    Level,
+    LogEntry,
+    Pattern,
+    Summary,
 )
 
 # Order matters: UUID before hex, IP before number, or the broader rule wins.
@@ -120,7 +126,10 @@ def detect_anomalies(buckets: list[Bucket], *, threshold: float = 2.5) -> list[A
         scale = stdev if stdev > 0 else None
 
     anomalies: list[Anomaly] = []
-    for bucket, count in zip(buckets, error_counts):
+    # strict=: error_counts is derived 1:1 from buckets, so a length
+    # mismatch means a bug upstream. Fail loudly instead of silently
+    # truncating and under-reporting anomalies.
+    for bucket, count in zip(buckets, error_counts, strict=True):
         z = (count - median) / scale if scale else 0.0
         bucket.z_score = round(min(z, 99.9), 2) if math.isfinite(z) else 99.9
 

@@ -3,8 +3,12 @@ from datetime import datetime, timedelta, timezone
 import pytest
 
 from app.analysis import (
-    analyse, build_timeline, choose_bucket_size, detect_anomalies,
-    extract_patterns, templatise,
+    analyse,
+    build_timeline,
+    choose_bucket_size,
+    detect_anomalies,
+    extract_patterns,
+    templatise,
 )
 from app.models import Bucket, Level, LogEntry
 

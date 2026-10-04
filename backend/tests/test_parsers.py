@@ -1,11 +1,16 @@
-from datetime import timezone
 
 import pytest
 
 from app.models import Level
 from app.parsers import (
-    CommonLogParser, GenericParser, JsonParser, LogfmtParser, SyslogParser,
-    detect_format, parse_lines, parse_timestamp,
+    CommonLogParser,
+    GenericParser,
+    JsonParser,
+    LogfmtParser,
+    SyslogParser,
+    detect_format,
+    parse_lines,
+    parse_timestamp,
 )
 
 
